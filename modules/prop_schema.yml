@@ -240,5 +240,5 @@ classes:
 id: https://example.org/main_schema
 imports:
 - ./prop_definitions/all_prop_definitions.yml
-name: MainSchema
+name: PropSchema
 version: 1.0.0
