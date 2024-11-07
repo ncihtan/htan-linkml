@@ -1,0 +1,10 @@
+performed_imaging_study_algorithmCode:
+  Desc: A coded value specifying the algorithm to use when reconstructing the image
+    from the data acquired during the acquisition process
+  Req: true
+  Term:
+  - Code: '14617557'
+    Origin: caDSR
+    Value: Imaging Reconstruction Protocol Algorithm Code Text
+    Version: '1.00'
+  Type: string

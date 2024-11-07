@@ -1,0 +1,6 @@
+de_identification_method_type:
+  Enum:
+  - Manual
+  - Semiautomatic
+  - Automatic
+  - Not applicable

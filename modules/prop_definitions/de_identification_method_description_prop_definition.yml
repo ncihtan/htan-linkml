@@ -1,0 +1,11 @@
+de_identification_method_description:
+  Desc: Description of the process of removing potentially identifying data or data
+    elements to render data into a form that does not identify individuals and where
+    identification is not likely to take place.
+  Term:
+  - Code: '14612655'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Deidentification Method Description Text
+    Version: '1.00'
+  Type: string

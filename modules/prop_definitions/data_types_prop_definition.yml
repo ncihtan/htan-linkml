@@ -1,0 +1,5 @@
+data_types:
+  Desc: Data types for storage
+  Type:
+    item_type: string
+    value_type: list

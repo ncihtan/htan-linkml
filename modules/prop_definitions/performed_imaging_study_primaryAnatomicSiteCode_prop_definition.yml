@@ -1,0 +1,11 @@
+performed_imaging_study_primaryAnatomicSiteCode:
+  Desc: A coded value specifying the anatomic location that is the focus of this imaging
+    process protocol element.
+  Req: true
+  Term:
+  - Code: '14612662'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Image Study Primary Anatomic Site Sequence of Items Text
+    Version: '1.00'
+  Type: string

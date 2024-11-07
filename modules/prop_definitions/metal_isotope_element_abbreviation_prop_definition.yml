@@ -1,0 +1,9 @@
+metal_isotope_element_abbreviation:
+  Desc: Element abbreviation
+  Term:
+  - Code: '14765198'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Isotope Abbreviation Name
+    Version: '1.00'
+  Type: string

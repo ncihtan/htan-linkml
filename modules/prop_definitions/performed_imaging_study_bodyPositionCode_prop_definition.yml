@@ -1,0 +1,14 @@
+performed_imaging_study_bodyPositionCode:
+  Desc: A coded value specifying the 3-dimensional spatial orientation of a subject
+    during this imaging acquisition protocol element.
+  Enum:
+  - Supine
+  - Trendelenburg
+  - Standing
+  Term:
+  - Code: '14617523'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Image Study Body Position Name
+    Version: '1.00'
+  enum_import: ./enums/performed_imaging_study_bodyPositionCode_enum.yml

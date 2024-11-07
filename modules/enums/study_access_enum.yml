@@ -1,0 +1,4 @@
+study_access:
+  Enum:
+  - Open
+  - Controlled

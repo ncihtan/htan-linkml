@@ -1,0 +1,3 @@
+clinical_trial_repository:
+  Desc: The name of the organization that provides the clinical trial identifier.
+  Type: string

@@ -1,0 +1,41 @@
+library_strategy:
+  Enum:
+  - AMPLICON
+  - ATAC-Seq
+  - Bisulfite-Seq
+  - ChIA-PET
+  - ChIP-Seq
+  - CLONE
+  - CLONEEND
+  - CTS
+  - DNA-Seq
+  - DNase-Hypersensitivity
+  - EST
+  - FAIRE-seq
+  - FINISHING
+  - FL-cDNA
+  - Hi-C
+  - MBD-Seq
+  - MeDIP-Seq
+  - miRNA-Seq
+  - MNase-Seq
+  - MRE-Seq
+  - ncRNA-Seq
+  - Other
+  - POOLCLONE
+  - RAD-Seq
+  - RIP-Seq
+  - RNA-Seq
+  - scMultiome
+  - SELEX
+  - snATAC-Seq
+  - Spatial-tx
+  - ssRNA-seq
+  - Synthetic-Long-Read
+  - Targeted-Capture
+  - Tethered Chromatin Conformation Capture
+  - Tn-Seq
+  - WCS
+  - WGA
+  - WGS
+  - WXS

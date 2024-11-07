@@ -1,0 +1,10 @@
+CTAquisitionProtocolElement_kVp:
+  Desc: Peak kilovoltage output of the x-ray generator. The units are of electrical
+    potential.
+  Req: true
+  Term:
+  - Code: '2904496'
+    Origin: caDSR
+    Value: Image Kilovolt Peak Float 16 Number
+    Version: '1.00'
+  Type: string

@@ -1,0 +1,3 @@
+cds_secondary_bucket:
+  Desc: Secondary bucket for depositing data (non-sequence files)
+  Type: string

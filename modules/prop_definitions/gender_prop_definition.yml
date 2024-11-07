@@ -1,0 +1,17 @@
+gender:
+  Desc: Biological gender at birth
+  Enum:
+  - Female
+  - Intersex
+  - Male
+  - Not Reported
+  - Unknown
+  - Unspecified
+  Req: true
+  Term:
+  - Code: '2200604'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Person Gender Text Type
+    Version: '3.00'
+  enum_import: ./enums/gender_enum.yml

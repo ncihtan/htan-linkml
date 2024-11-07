@@ -1,0 +1,22 @@
+staining_method:
+  Desc: Any of the various methods that use a dye, reagent, or other material for
+    producing coloration in tissues or microorganisms for microscopic examination.
+  Enum:
+  - CODEX
+  - GeoMX-DSP
+  - H&E
+  - IHC
+  - IMC
+  - MIBI
+  - mIHC
+  - MxIF
+  - SABER
+  - t-CyCIF
+  Req: true
+  Term:
+  - Code: '7789196'
+    Origin: caDSR
+    Original Source: HTAN
+    Value: Imaging Assay Technology Type
+    Version: '1.00'
+  enum_import: ./enums/staining_method_enum.yml

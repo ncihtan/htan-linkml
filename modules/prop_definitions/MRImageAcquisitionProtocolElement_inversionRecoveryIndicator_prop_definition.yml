@@ -1,0 +1,9 @@
+MRImageAcquisitionProtocolElement_inversionRecoveryIndicator:
+  Desc: Specifies whether an inversion recovery preparatory sequence is used in the
+    acquisition.
+  Term:
+  - Code: '14607722'
+    Origin: caDSR
+    Value: Image Acquisition Inversion Recovery Indicator
+    Version: '1.00'
+  Type: string

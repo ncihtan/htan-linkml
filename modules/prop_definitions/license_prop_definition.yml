@@ -1,0 +1,16 @@
+license:
+  Desc: Official or legal permission to do or own a specified thing.
+  Enum:
+  - CC BY 3.0    http://creativecommons.org/licenses/by/3.0/
+  - CC BY 4.0    https://creativecommons.org/licenses/by/4.0/
+  - CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/
+  - CC BY-NC 3.0 https://creativecommons.org/licenses/by-nc/3.0/
+  - Other
+  Req: true
+  Term:
+  - Code: '14902606'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Data Collection License Type
+    Version: '1.00'
+  enum_import: ./enums/license_enum.yml

@@ -1,0 +1,4 @@
+performed_imaging_study_lossyImageCompressionIndicator:
+  Enum:
+  - '0'
+  - '1'

@@ -1,0 +1,7 @@
+MRImageAcquisitionProtocolElement_spectrallySelectedSuppressionCode:
+  Enum:
+  - FAT
+  - WATER
+  - FAT AND WATER
+  - SILICON GEL
+  - NONE

@@ -1,0 +1,9 @@
+MRImageAcquisitionProtocolElement_phaseContrastIndicator:
+  Desc: Specifies whether this is a pulse sequence in which the flowing spins are
+    velocity encoded in phase.
+  Term:
+  - Code: '14608601'
+    Origin: caDSR
+    Value: Image Phase Contrast Indicator
+    Version: '1.00'
+  Type: string

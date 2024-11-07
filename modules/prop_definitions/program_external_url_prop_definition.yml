@@ -1,0 +1,6 @@
+program_external_url:
+  Desc: The external url to which users should be directed in order to learn more
+    about the program.
+  Req: Preferred
+  Src: Internally-curated
+  Type: string

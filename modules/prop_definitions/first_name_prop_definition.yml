@@ -1,0 +1,10 @@
+first_name:
+  Desc: A word or group of words indicating a person's first (personal or given) name;
+    the name that precedes the surname. Synonym = Given Name.
+  Term:
+  - Code: '2179589'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Person Given/First Name
+    Version: '2.00'
+  Type: string

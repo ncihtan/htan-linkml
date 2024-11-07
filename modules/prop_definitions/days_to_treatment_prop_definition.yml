@@ -1,0 +1,9 @@
+days_to_treatment:
+  Desc: Days to start of treatment, relative to index date
+  Term:
+  - Code: '12305542'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Subject Age at Treatment Assignment Day Count
+    Version: '1.00'
+  Type: integer

@@ -1,0 +1,15 @@
+MRImageAcquisitionProtocolElement_steadyStatePulseSequenceCode:
+  Desc: A coded value specifying how residual transverse magnetization is maintained
+    during the acquisition.
+  Enum:
+  - FREE PRECESSION
+  - TRANSVERSE
+  - TIME REVERSED
+  - LONGITUDINAL
+  - NONE
+  Term:
+  - Code: '14616430'
+    Origin: caDSR
+    Value: Image Acquisition Steady State Pulse Sequence Type
+    Version: '1.00'
+  enum_import: ./enums/MRImageAcquisitionProtocolElement_steadyStatePulseSequenceCode_enum.yml

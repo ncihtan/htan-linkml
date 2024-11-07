@@ -1,0 +1,16 @@
+performed_imaging_study_cardiacSynchronizationTechniqueCode:
+  Desc: The means used to coordinate the collection or reconstruction of data with
+    the cardiac cycle.
+  Enum:
+  - REALTIME
+  - PROSPECTIVE
+  - RETROSPECTIVE
+  - PACED
+  - NONE
+  Term:
+  - Code: '14617521'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Image Study Cardiac Synchronization Technique Code Name
+    Version: '1.00'
+  enum_import: ./enums/performed_imaging_study_cardiacSynchronizationTechniqueCode_enum.yml

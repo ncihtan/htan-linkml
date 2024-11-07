@@ -1,0 +1,5 @@
+file_access:
+  Enum:
+  - Open
+  - Controlled
+  - Not specified in data

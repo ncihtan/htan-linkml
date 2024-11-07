@@ -1,0 +1,10 @@
+CTAquisitionProtocolElement_totalCollimationWidth:
+  Desc: The width of the total collimation over the area of active x-ray detection.
+    The units are of linear distince, e.g. mm.
+  Req: true
+  Term:
+  - Code: '2903328'
+    Origin: caDSR
+    Value: Image Total Collimation Width 8 Byte Millimeter Number
+    Version: '1.00'
+  Type: string

@@ -1,0 +1,5 @@
+genomic_info_id:
+  Desc: Genomic info identifier, the ID property for the ndoe genomic_info.
+  Key: true
+  Req: true
+  Type: string

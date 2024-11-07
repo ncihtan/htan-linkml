@@ -1,0 +1,11 @@
+channel_metadata_filename:
+  Desc: File name of uploaded companion CSV file containing channel-level metadata
+    details
+  Req: true
+  Term:
+  - Code: '7787678'
+    Origin: caDSR
+    Original Source: HTAN
+    Value: Channel Analysis Metadata Electronic File Name Text
+    Version: '1.00'
+  Type: string

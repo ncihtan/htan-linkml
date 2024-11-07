@@ -1,0 +1,4 @@
+checksum_value:
+  Desc: checksum (hash) for file (using checksum_algorithm) - if you want to use a
+    checksum other than md5
+  Type: string

@@ -1,0 +1,47 @@
+tumor_stage_clinical_t:
+  Desc: Extent of the primary cancer based on evidence obtained from clinical assessment
+    parameters determined prior to treatment.
+  Enum:
+  - T0
+  - T1
+  - T1a
+  - T1a1
+  - T1a2
+  - T1b
+  - T1b1
+  - T1b2
+  - T1c
+  - T1mi
+  - T2
+  - T2a
+  - T2a1
+  - T2a2
+  - T2b
+  - T2c
+  - T2d
+  - T3
+  - T3a
+  - T3b
+  - T3c
+  - T3d
+  - T4
+  - T4a
+  - T4b
+  - T4c
+  - T4d
+  - T4e
+  - TX
+  - Ta
+  - Tis
+  - Tis (DCIS)
+  - Tis (LCIS)
+  - Tis (Paget's)
+  - Unknown
+  - Not Reported
+  Term:
+  - Code: '3440328'
+    Origin: caDSR
+    Original Source: TCGA
+    Value: Neoplasm American Joint Committee on Cancer Clinical Primary Tumor T Stage
+    Version: '1.00'
+  enum_import: ./enums/tumor_stage_clinical_t_enum.yml

@@ -1,0 +1,18 @@
+sex:
+  Desc: A textual description of a person's sex at birth.
+  Enum:
+  - Decline to answer
+  - Don't know
+  - Female
+  - Intersex
+  - Male
+  - None of these describe me
+  - Prefer not to answer
+  - Unknown
+  Term:
+  - Code: '7572817'
+    Origin: caDSR
+    Original Source: CRDC Standard
+    Value: Person Sex at Birth Category
+    Version: '1.00'
+  enum_import: ./enums/sex_enum.yml

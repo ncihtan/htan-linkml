@@ -1,0 +1,9 @@
+pyramid:
+  Desc: The data file contains an image pyramid
+  Term:
+  - Code: '7788945'
+    Origin: caDSR
+    Original Source: HTAN
+    Value: Image Processing Pyramid Representation True False Indicator
+    Version: '1.00'
+  Type: string

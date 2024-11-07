@@ -1,0 +1,14 @@
+MRImageAcquisitionProtocolElement_diffusionDirectionalityCode:
+  Desc: A coded value specifying whether diffusion conditions for the frame are directional,
+    or isotropic with respect to direction
+  Enum:
+  - DIRECTIONAL
+  - BMATRIX
+  - ISOTROPIC
+  - NONE
+  Term:
+  - Code: '14616426'
+    Origin: caDSR
+    Value: Imaging Technique Diffusion Directionality Type
+    Version: '1.00'
+  enum_import: ./enums/MRImageAcquisitionProtocolElement_diffusionDirectionalityCode_enum.yml

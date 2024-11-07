@@ -1,0 +1,29 @@
+file_type:
+  Enum:
+  - BAI
+  - BAM
+  - BW
+  - CRAI
+  - CRAM
+  - FASTQ
+  - HTML
+  - IDAT
+  - JSON
+  - MAF
+  - PDF
+  - TSV
+  - TXT
+  - VCF
+  - XLSX
+  - NIFTI
+  - PED
+  - BED
+  - SEG
+  - TAR
+  - CSV
+  - GVCF
+  - TIFF
+  - PNG
+  - CNS
+  - SVG
+  - DICT

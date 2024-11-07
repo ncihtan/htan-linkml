@@ -1,0 +1,13 @@
+adult_or_childhood_study:
+  Desc: Study participants are adult, pediatric, or other
+  Enum:
+  - Adult - legal age
+  - Pediatric
+  Req: Preferred
+  Term:
+  - Code: '11524549'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Study Subject Legal Adult Or Pediatric Participant Type
+    Version: '1.00'
+  enum_import: ./enums/adult_or_childhood_study_enum.yml

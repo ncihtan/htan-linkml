@@ -1,0 +1,22 @@
+sample_type:
+  Desc: Tissue type of this sample
+  Enum:
+  - Analyte
+  - Ascites
+  - Blood
+  - Bone Marrow
+  - Cells
+  - Fluids
+  - Mouth Rinse
+  - Sputum
+  - Stool
+  - Tissue
+  - Urine
+  Req: 'Yes'
+  Term:
+  - Code: '11253427'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Specimen Material OBIB Source
+    Version: '1.00'
+  enum_import: ./enums/sample_type_enum.yml

@@ -1,0 +1,4 @@
+submission_version:
+  Desc: The version of the metadata file submitted to CDS
+  Req: Preferred
+  Type: string

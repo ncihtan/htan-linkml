@@ -1,0 +1,9 @@
+CTAquisitionProtocolElement_singleCollimationWidth:
+  Desc: The width of a single row of acquired data. The units are of linear distince,
+    e.g. mm.
+  Term:
+  - Code: '2903347'
+    Origin: caDSR
+    Value: Image Single Collimation Width 8 Byte Millimeter Number
+    Version: '1.00'
+  Type: string

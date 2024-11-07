@@ -1,0 +1,9 @@
+rrid_identifier:
+  Desc: Research Resource Identifier
+  Term:
+  - Code: '14767247'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Research Resource Identifier Text
+    Version: '1.00'
+  Type: string

@@ -1,0 +1,12 @@
+last_known_disease_status:
+  Enum:
+  - Primary
+  - Progression
+  - Recurrence
+  - Metastasis
+  - Remission
+  - No_disease
+  - Distant met recurrence/progression
+  - Loco-regional recurrence/progression
+  - Biochemical evidence of disease without structural correlate
+  - Tumor free

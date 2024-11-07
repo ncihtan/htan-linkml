@@ -1,0 +1,8 @@
+index_date:
+  Desc: Index date (Day 0) to which all dates are relative, for this study
+  Enum:
+  - date_of_diagnosis
+  - date_of_enrollment
+  - date_of_collection
+  - date_of_birth
+  enum_import: ./enums/index_date_enum.yml

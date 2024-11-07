@@ -1,0 +1,10 @@
+MRImageAcquisitionProtocolElement_resonantNucleusCode:
+  Enum:
+  - 1H
+  - 3HE
+  - 7LI
+  - 13C
+  - 19F
+  - 23NA
+  - 31P
+  - 129XE

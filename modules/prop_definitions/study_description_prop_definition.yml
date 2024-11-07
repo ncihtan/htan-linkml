@@ -1,0 +1,4 @@
+study_description:
+  Desc: Human-readable study description
+  Req: Preferred
+  Type: string

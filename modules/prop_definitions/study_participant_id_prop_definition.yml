@@ -1,0 +1,12 @@
+study_participant_id:
+  Desc: 'The property study_participant_id is a compound property, combining the property
+    participant_id and the parent property study.phs_accession.
+
+    It is the ID property for the node participant. The reason why we are doing that
+    is because is some cases, there are same participant id in different studies repersent
+    different participants.
+
+    '
+  Key: true
+  Req: true
+  Type: string

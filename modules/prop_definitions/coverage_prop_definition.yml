@@ -1,0 +1,9 @@
+coverage:
+  Desc: Average depth of coverage on reference used
+  Req: Preferred
+  Term:
+  - Code: '11556322'
+    Origin: caDSR
+    Value: Genome Assembly Sequence Depth of Coverage Number
+    Version: '1.00'
+  Type: number

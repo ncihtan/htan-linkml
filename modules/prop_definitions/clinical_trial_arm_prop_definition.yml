@@ -1,0 +1,8 @@
+clinical_trial_arm:
+  Desc: Arm of clinical trial, if appropriate
+  Term:
+  - Code: '11524548'
+    Origin: caDSR
+    Value: Clinical Trial Treatment Arm Text
+    Version: '1.00'
+  Type: string

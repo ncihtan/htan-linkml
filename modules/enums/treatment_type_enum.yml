@@ -1,0 +1,30 @@
+treatment_type:
+  Enum:
+  - 3-Dimensional Conformal Radiation Therapy
+  - Allogeneic Hematopoietic Stem Cell Transplantation
+  - Autologous Stem Cell Transplantation
+  - Brachytherapy
+  - Cellular Therapy
+  - Chemotherapy
+  - Concurrent Chemoradiation
+  - Conventional Radiotherapy
+  - Electron Beam Radiation Therapy
+  - External Beam Radiation Therapy
+  - High-Dose Rate Brachytherapy
+  - Hormone Therapy
+  - Immunotherapy
+  - Intensity-Modulated Radiation Therapy
+  - Low-Dose Rate Brachytherapy
+  - Not Reported
+  - Pharmacotherapy
+  - Photon Beam Radiation Therapy
+  - Proton Beam Radiation Therapy
+  - Radiation Therapy
+  - Radiofrequency Ablation
+  - Radiopharmaceutical
+  - Stem Cell Transplant
+  - Stereotactic Body Radiation Therapy
+  - Stereotactic Radiosurgery
+  - Surgical Procedure
+  - Targeted Molecular Therapy
+  - Unknown

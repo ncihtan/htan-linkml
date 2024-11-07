@@ -1,0 +1,9 @@
+performed_imaging_study_sliceThickness:
+  Desc: The cross plane dimension of the reconstructed image.
+  Req: true
+  Term:
+  - Code: '3113185'
+    Origin: caDSR
+    Value: Image Plane Slice Thickness Float or Fixed-point Millimeter Number
+    Version: '2.00'
+  Type: string

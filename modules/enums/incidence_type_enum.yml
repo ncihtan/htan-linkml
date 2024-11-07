@@ -1,0 +1,8 @@
+incidence_type:
+  Enum:
+  - primary
+  - progression
+  - recurrence
+  - metastasis
+  - remission
+  - no_disease

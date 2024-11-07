@@ -1,0 +1,10 @@
+biosample_accession:
+  Desc: NCBI BioSample accession ID (SAMN) for this sample
+  Req: Preferred
+  Term:
+  - Code: '2230047'
+    Origin: caDSR
+    Value: Specimen Accession Number
+    Version: '6.00'
+  Type:
+    pattern: ^SAMN[0-9]+$

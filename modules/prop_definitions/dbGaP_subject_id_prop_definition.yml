@@ -1,0 +1,9 @@
+dbGaP_subject_id:
+  Desc: Identifier for the participant as assigned by dbGaP
+  Term:
+  - Code: '14940691'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Research Activity dbGaP Subject Identifier Text
+    Version: '1.00'
+  Type: string

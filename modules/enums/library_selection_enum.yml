@@ -1,0 +1,38 @@
+library_selection:
+  Enum:
+  - 5-methylcytidine antibody
+  - Affinity Enrichment
+  - CAGE
+  - cDNA
+  - cDNA oligo_dT
+  - cDNA random priming
+  - CF-H
+  - CF-M
+  - CF-S
+  - CF-T
+  - ChIP
+  - DNAse
+  - HMPR
+  - Hybrid Selection
+  - Inverse rRNA
+  - MBD2 protein methyl-CpG binding domain
+  - MDA
+  - MF
+  - miRNA Size Fractionation
+  - MNase
+  - MSLL
+  - Not applicable
+  - Other
+  - Padlock probes capture method
+  - PCR
+  - Poly-A Enriched Genomic Library
+  - RACE
+  - Random
+  - Random PCR
+  - Reduced Representation
+  - Repeat fractionation
+  - Restriction Digest
+  - rRNA Depletion
+  - RT-PCR
+  - Size fractionation
+  - Unspecified

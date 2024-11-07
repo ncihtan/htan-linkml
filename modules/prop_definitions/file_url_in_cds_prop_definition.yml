@@ -1,0 +1,11 @@
+file_url_in_cds:
+  Desc: Location of the file on the CDS cloud, using AWS S3 protocol
+  Tags:
+    Template: 'No'
+  Term:
+  - Code: '11556141'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Electronic File Pathname Text
+    Version: '1.00'
+  Type: string

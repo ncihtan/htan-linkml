@@ -1,0 +1,28 @@
+experimental_strategy_and_data_subtypes:
+  Desc: 'What is the experimental strategy used for the study (or what
+
+    type of data subtypes exist in the study)?
+
+    '
+  Req: 'Yes'
+  Term:
+  - Code: '12373576'
+    Origin: caDSR
+    Original Source: CRDC
+    Value: Research Activity Experimental Method Type
+    Version: '1.00'
+  Type:
+    Enum:
+    - Archer Fusion
+    - Bisulfite-Seq
+    - DNA-Seq
+    - Methylation Analysis
+    - Methylation Array
+    - Pathological
+    - Radiological
+    - RNA-Seq
+    - scRNA-Seq
+    - WGA
+    - WXS
+    item_type: string
+    value_type: list

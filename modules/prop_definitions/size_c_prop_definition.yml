@@ -1,0 +1,8 @@
+size_c:
+  Desc: Number of channels. Integer >= 1
+  Term:
+  - Code: '7794859'
+    Origin: caDSR
+    Value: OME TIFF Channel Count
+    Version: '1.00'
+  Type: string

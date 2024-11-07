@@ -1,0 +1,6 @@
+MRImageAcquisitionProtocolElement_diffusionDirectionalityCode:
+  Enum:
+  - DIRECTIONAL
+  - BMATRIX
+  - ISOTROPIC
+  - NONE

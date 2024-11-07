@@ -1,0 +1,4 @@
+study_external_url:
+  Desc: Website or other url relevant to study
+  Req: Preferred
+  Type: url

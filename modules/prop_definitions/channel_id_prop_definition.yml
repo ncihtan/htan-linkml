@@ -1,0 +1,10 @@
+channel_id:
+  Desc: The unique channel identifier for each channel in this image must match the
+    corresponding field in the OME-TIFF header
+  Req: true
+  Term:
+  - Code: '14765171'
+    Origin: caDSR
+    Value: OME Tagged Image File Format Channel Identifier
+    Version: '1.00'
+  Type: string

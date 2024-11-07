@@ -1,0 +1,9 @@
+performed_imaging_study_respiratoryMotionTechniqueCode:
+  Enum:
+  - BREATH-HOLD
+  - REALTIME
+  - GATING
+  - TRACKING
+  - RETROSPECTIVE
+  - CORRECTION
+  - NONE

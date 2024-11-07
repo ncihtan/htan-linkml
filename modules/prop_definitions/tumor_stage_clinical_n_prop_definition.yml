@@ -1,0 +1,38 @@
+tumor_stage_clinical_n:
+  Desc: Extent of the regional lymph node involvement for the cancer based on evidence
+    obtained from clinical assessment parameters determined prior to treatment.
+  Enum:
+  - N0
+  - N0 (i+)
+  - N0 (i-)
+  - N0 (mol+)
+  - N0 (mol-)
+  - N1
+  - N1a
+  - N1b
+  - N1bI
+  - N1bII
+  - N1bIII
+  - N1bIV
+  - N1c
+  - N1mi
+  - N2
+  - N2a
+  - N2b
+  - N2c
+  - N3
+  - N3a
+  - N3b
+  - N3c
+  - N4
+  - NX
+  - Unknown
+  - Not Reported
+  Term:
+  - Code: '3440330'
+    Origin: caDSR
+    Original Source: TCGA
+    Value: Neoplasm American Joint Committee on Cancer Clinical Regional Lymph Node
+      N Stage
+    Version: '1.00'
+  enum_import: ./enums/tumor_stage_clinical_n_enum.yml

@@ -1,0 +1,9 @@
+grant_id:
+  Desc: Grant or contract identifier
+  Req: Preferred
+  Term:
+  - Code: '3434057'
+    Origin: caDSR
+    Value: Grant Funding Identifier Number
+    Version: '2.00'
+  Type: string

@@ -1,0 +1,16 @@
+ethnicity:
+  Desc: OMB Ethinicity designator
+  Enum:
+  - Hispanic or Latino
+  - Not allowed to collect
+  - Not Hispanic or Latino
+  - Not reported
+  - Unknown
+  Req: Preferred
+  Term:
+  - Code: '2192217'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Ethnic Group Category Text
+    Version: '2.00'
+  enum_import: ./enums/ethnicity_enum.yml

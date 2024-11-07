@@ -1,0 +1,14 @@
+MRImageReconstructionProtocolElement_complexImageComponentCode:
+  Desc: A coded value specifying the channel of the quadrature detected data, or the
+    combination derived from those channels, used to reconstruct the image
+  Enum:
+  - REAL
+  - IMAGINARY
+  - PHASE
+  - MAGNITUDE
+  Term:
+  - Code: '14616432'
+    Origin: caDSR
+    Value: Imaging Technique Complex Image Component Type
+    Version: '1.00'
+  enum_import: ./enums/MRImageReconstructionProtocolElement_complexImageComponentCode_enum.yml

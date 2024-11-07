@@ -1,0 +1,13 @@
+performed_imaging_study_lossyImageCompressionIndicator:
+  Desc: Specifies whether any images in the study are irreversibly altered during
+    encoding at any time during its life.
+  Enum:
+  - '0'
+  - '1'
+  Req: true
+  Term:
+  - Code: '2659474'
+    Origin: caDSR
+    Value: Image Lossy Compression Code
+    Version: '1.00'
+  enum_import: ./enums/performed_imaging_study_lossyImageCompressionIndicator_enum.yml

@@ -1,0 +1,4 @@
+primary_investigator_name:
+  Desc: Name of principal investigator
+  Req: Preferred
+  Type: string

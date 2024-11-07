@@ -1,0 +1,16 @@
+treatment_outcome:
+  Enum:
+  - Complete Remission
+  - Minor Response
+  - Mixed Response
+  - No Evidence of Disease
+  - Non-Response
+  - Not Applicable
+  - Not Done
+  - Not Evaluable
+  - Not Reported
+  - Partial Response
+  - Progressive Disease
+  - Stable Disease
+  - Unknown
+  - Very Good Partial Response

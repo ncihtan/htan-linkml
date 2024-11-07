@@ -1,0 +1,10 @@
+sample_id:
+  Desc: Sample identifier as submitted by requestor
+  Key: true
+  Req: 'Yes'
+  Term:
+  - Code: '6921892'
+    Origin: caDSR
+    Value: Biospecimen Source Laboratory Identifier
+    Version: '1.00'
+  Type: string

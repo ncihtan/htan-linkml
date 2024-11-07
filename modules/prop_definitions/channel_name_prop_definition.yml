@@ -1,0 +1,10 @@
+channel_name:
+  Desc: Channel label for each channel in this image must match the corresponding
+    field in the OME-TIFF header
+  Req: true
+  Term:
+  - Code: '14765172'
+    Origin: caDSR
+    Value: OME Tagged Image File Format Channel Name
+    Version: '1.00'
+  Type: string

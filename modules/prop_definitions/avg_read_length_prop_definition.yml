@@ -1,0 +1,9 @@
+avg_read_length:
+  Desc: Average sequence read length
+  Req: Preferred
+  Term:
+  - Code: '12426615'
+    Origin: caDSR
+    Value: Nucleotide Sequence Average Read Length Count
+    Version: '1.00'
+  Type: number

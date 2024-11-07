@@ -1,0 +1,11 @@
+performed_imaging_study_admittingDiagnosisCode:
+  Desc: The identified disease(s) or illness(es) at the time of the admission during
+    which imaging was performed.
+  Req: true
+  Term:
+  - Code: '2902328'
+    Origin: caDSR
+    Original Source: DICOM
+    Value: Image Study Admitting Diagnosis Description 64 Character Text
+    Version: '1.00'
+  Type: string

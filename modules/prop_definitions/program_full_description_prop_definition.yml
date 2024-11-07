@@ -1,0 +1,5 @@
+program_full_description:
+  Desc: A more detailed, multiple sentence description of the program.
+  Req: Preferred
+  Src: Internally-curated
+  Type: string

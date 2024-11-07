@@ -1,0 +1,11 @@
+role_or_affiliation:
+  Desc: The text that describes the distinguishable characteristics of the action
+    or activity assigned to or required or expected of a person in a formal association
+    with a group or organization.
+  Term:
+  - Code: '2201713'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Person Affiliation Role Text Type
+    Version: '2.00'
+  Type: string

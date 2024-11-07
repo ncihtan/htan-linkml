@@ -1,0 +1,9 @@
+age_at_diagnosis:
+  Desc: Participant age at relevant diagnosis
+  Term:
+  - Code: '10609539'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Subject Age at Diagnosis Integer
+    Version: '1.00'
+  Type: integer

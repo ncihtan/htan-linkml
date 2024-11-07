@@ -1,0 +1,3 @@
+co_investigator_email:
+  Desc: Email of co-principal investigator
+  Type: string

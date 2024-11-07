@@ -1,0 +1,4 @@
+specimen_id:
+  Desc: Identifier for specimen (parent of sample) as provided by requestor
+  Key: true
+  Type: string

@@ -1,0 +1,9 @@
+oligo_barcode_lower_strand:
+  Desc: DNA barcode used for labeling
+  Term:
+  - Code: '14765208'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Oligonucleotide Barcode Lower Strand Text
+    Version: '1.00'
+  Type: string

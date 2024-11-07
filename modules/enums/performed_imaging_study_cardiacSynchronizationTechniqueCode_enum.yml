@@ -1,0 +1,7 @@
+performed_imaging_study_cardiacSynchronizationTechniqueCode:
+  Enum:
+  - REALTIME
+  - PROSPECTIVE
+  - RETROSPECTIVE
+  - PACED
+  - NONE

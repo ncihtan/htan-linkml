@@ -1,0 +1,6 @@
+program_sort_order:
+  Desc: An arbitrarily-assigned value used to dictate the order in which programs
+    are displayed within the application's UI.
+  Req: 'No'
+  Src: Internally-curated
+  Type: integer

@@ -1,0 +1,9 @@
+target_name:
+  Desc: short descriptive name (abbreviation) for this target (antigen)
+  Term:
+  - Code: '14765180'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Reagent Sub-Cycle Number Integer
+    Version: '1.00'
+  Type: string

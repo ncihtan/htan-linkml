@@ -1,0 +1,9 @@
+de_identification_software:
+  Desc: Software that was used to de-identify the images (if used)
+  Term:
+  - Code: '14612658'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Deidentification Software Name Text
+    Version: '1.00'
+  Type: string

@@ -1,0 +1,10 @@
+file_size:
+  Desc: File size in bytes
+  Req: false
+  Term:
+  - Code: '11479876'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Electronic Data File Size Integer
+    Version: '1.00'
+  Type: integer

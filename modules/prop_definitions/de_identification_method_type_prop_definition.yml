@@ -1,0 +1,15 @@
+de_identification_method_type:
+  Desc: General description of the de-identification method
+  Enum:
+  - Manual
+  - Semiautomatic
+  - Automatic
+  - Not applicable
+  Req: true
+  Term:
+  - Code: '14607284'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Deidentification Method Type
+    Version: '1.00'
+  enum_import: ./enums/de_identification_method_type_enum.yml

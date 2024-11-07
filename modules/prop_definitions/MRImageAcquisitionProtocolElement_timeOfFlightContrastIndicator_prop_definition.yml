@@ -1,0 +1,9 @@
+MRImageAcquisitionProtocolElement_timeOfFlightContrastIndicator:
+  Desc: Specifies whether contrast is created by the inflow of blood in the saturated
+    plane.
+  Term:
+  - Code: '14608649'
+    Origin: caDSR
+    Value: Imaging Technique Time of Flight Contrast Indicator
+    Version: '1.00'
+  Type: string

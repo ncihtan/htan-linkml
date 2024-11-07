@@ -1,0 +1,8 @@
+size_t:
+  Desc: Number of time points. Integer >= 1
+  Term:
+  - Code: '7794860'
+    Origin: caDSR
+    Value: OME TIFF Timepoint Count
+    Version: '1.00'
+  Type: string

@@ -1,0 +1,6 @@
+index_date:
+  Enum:
+  - date_of_diagnosis
+  - date_of_enrollment
+  - date_of_collection
+  - date_of_birth

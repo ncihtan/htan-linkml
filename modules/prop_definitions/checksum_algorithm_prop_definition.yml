@@ -1,0 +1,3 @@
+checksum_algorithm:
+  Desc: The method by which the file checksum was calculated.
+  Type: string

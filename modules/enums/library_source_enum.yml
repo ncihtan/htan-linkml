@@ -1,0 +1,14 @@
+library_source:
+  Enum:
+  - Genomic
+  - Transcriptomic
+  - Metagenomic
+  - Metatranscriptomic
+  - Synthetic
+  - Viral RNA
+  - Genomic Single Cell
+  - Single Nucleus
+  - Transcriptomic Single Cell
+  - Other
+  - Bulk Whole Cell
+  - Single Cell

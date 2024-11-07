@@ -1,0 +1,47 @@
+library_selection:
+  Desc: Library selection method
+  Enum:
+  - 5-methylcytidine antibody
+  - Affinity Enrichment
+  - CAGE
+  - cDNA
+  - cDNA oligo_dT
+  - cDNA random priming
+  - CF-H
+  - CF-M
+  - CF-S
+  - CF-T
+  - ChIP
+  - DNAse
+  - HMPR
+  - Hybrid Selection
+  - Inverse rRNA
+  - MBD2 protein methyl-CpG binding domain
+  - MDA
+  - MF
+  - miRNA Size Fractionation
+  - MNase
+  - MSLL
+  - Not applicable
+  - Other
+  - Padlock probes capture method
+  - PCR
+  - Poly-A Enriched Genomic Library
+  - RACE
+  - Random
+  - Random PCR
+  - Reduced Representation
+  - Repeat fractionation
+  - Restriction Digest
+  - rRNA Depletion
+  - RT-PCR
+  - Size fractionation
+  - Unspecified
+  Req: Preferred
+  Term:
+  - Code: '6347743'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Sequencing Library Creation Method Type
+    Version: '1.00'
+  enum_import: ./enums/library_selection_enum.yml

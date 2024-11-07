@@ -1,0 +1,9 @@
+acquisition_method_type:
+  Desc: Records the method of acquisition or source for the specimen under consideration
+  Term:
+  - Code: '6626651'
+    Origin: caDSR
+    Original Source: MCL/HTAN
+    Value: Biospecimen Acquisition Method Type
+    Version: '2.00'
+  Type: string

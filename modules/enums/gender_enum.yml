@@ -1,0 +1,8 @@
+gender:
+  Enum:
+  - Female
+  - Intersex
+  - Male
+  - Not Reported
+  - Unknown
+  - Unspecified

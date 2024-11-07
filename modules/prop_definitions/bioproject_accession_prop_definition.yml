@@ -1,0 +1,5 @@
+bioproject_accession:
+  Desc: NCBI BioProject accession ID
+  Req: Preferred
+  Type:
+    pattern: ^PRJNA[0-9]+$

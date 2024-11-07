@@ -1,0 +1,13 @@
+library_layout:
+  Desc: Library layout as submitted by requestor
+  Enum:
+  - Paired-End
+  - Single-indexed
+  Req: Preferred
+  Term:
+  - Code: '11527735'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Sequencing Library Read Layout Type
+    Version: '1.00'
+  enum_import: ./enums/library_layout_enum.yml

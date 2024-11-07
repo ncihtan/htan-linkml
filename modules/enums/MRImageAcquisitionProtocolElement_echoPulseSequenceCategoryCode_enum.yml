@@ -1,0 +1,5 @@
+MRImageAcquisitionProtocolElement_echoPulseSequenceCategoryCode:
+  Enum:
+  - SPIN
+  - GRADIENT
+  - BOTH

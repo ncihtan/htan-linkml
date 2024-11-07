@@ -1,0 +1,10 @@
+organ_or_tissue:
+  Desc: Site where images are associated
+  Req: true
+  Term:
+  - Code: '6161035'
+    Origin: caDSR
+    Original Source: CDS
+    Value: ICD-O Origin of Disease Anatomic Site
+    Version: '1.00'
+  Type: string

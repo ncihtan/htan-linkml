@@ -1,0 +1,10 @@
+middle_name:
+  Desc: A means of identifying an individual by using a word or group of words indicating
+    a person's middle name.
+  Term:
+  - Code: '2179590'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Person Middle Name
+    Version: '2.00'
+  Type: string

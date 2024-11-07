@@ -1,0 +1,4 @@
+library_layout:
+  Enum:
+  - Paired-End
+  - Single-indexed

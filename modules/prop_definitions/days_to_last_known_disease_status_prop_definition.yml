@@ -1,0 +1,10 @@
+days_to_last_known_disease_status:
+  Desc: The number of days from the date of the initial cancer diagnosis to the date
+    of last known disease status.
+  Term:
+  - Code: '12447170'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Subject Initial Cancer Diagnosis To Last Known Disease Status Day Count
+    Version: '1.00'
+  Type: number

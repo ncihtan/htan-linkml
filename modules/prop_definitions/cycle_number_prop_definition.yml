@@ -1,0 +1,9 @@
+cycle_number:
+  Desc: 'the cycle # in which the co-listed reagent(s) was(were) used'
+  Term:
+  - Code: '14765176'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Reagent Cycle Number Integer
+    Version: '1.00'
+  Type: string

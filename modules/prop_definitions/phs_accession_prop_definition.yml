@@ -1,0 +1,12 @@
+phs_accession:
+  Desc: PHS accession number (a.k.a dbGaP accession)
+  Key: true
+  Req: true
+  Term:
+  - Code: '11524544'
+    Origin: caDSR
+    Original Source: DSS CDE
+    Value: Research Activity dbGaP Accession Number Identifier
+    Version: '1.00'
+  Type:
+    pattern: ^phs[0-9]+([.]v[0-9]+)*$

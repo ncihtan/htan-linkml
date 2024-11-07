@@ -1,0 +1,20 @@
+last_known_disease_status:
+  Desc: Last known disease incidence for this subject and diagnosis
+  Enum:
+  - Primary
+  - Progression
+  - Recurrence
+  - Metastasis
+  - Remission
+  - No_disease
+  - Distant met recurrence/progression
+  - Loco-regional recurrence/progression
+  - Biochemical evidence of disease without structural correlate
+  - Tumor free
+  Term:
+  - Code: '12447172'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Subject Last Known Disease Status
+    Version: '1.00'
+  enum_import: ./enums/last_known_disease_status_enum.yml

@@ -1,0 +1,15 @@
+reference_genome_assembly:
+  Desc: Accession or name of genome reference or assembly used for alignment
+  Enum:
+  - GRCh37
+  - GRCh37-lite
+  - GRCh38
+  - Not specified in data
+  Req: Preferred
+  Term:
+  - Code: '11529031'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Genome Assembly NCBI Genetic Reference Sequence Identifier
+    Version: '1.00'
+  enum_import: ./enums/reference_genome_assembly_enum.yml

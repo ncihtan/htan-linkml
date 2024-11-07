@@ -1,0 +1,11 @@
+CTAquisitionProtocolElement_ctdiVol:
+  Desc: The average dose over the total volume scanned for the selected CT conditions
+    of operation (calculated according to IEC 60601-2-44, Ed.2.1 (Clause 29.1.103.4)).
+    The units are energy dose, e.g. mGy.
+  Req: true
+  Term:
+  - Code: '3882991'
+    Origin: caDSR
+    Value: Computed Tomography Dose Index Volume Quantity 8 Byte Number
+    Version: '1.00'
+  Type: string

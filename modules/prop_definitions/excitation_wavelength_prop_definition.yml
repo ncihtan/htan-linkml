@@ -1,0 +1,9 @@
+excitation_wavelength:
+  Desc: center/peak of the excitation spectrum (nm)
+  Term:
+  - Code: '14765187'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Excitation Wavelength Number
+    Version: '1.00'
+  Type: string

@@ -1,0 +1,9 @@
+days_to_recurrence:
+  Desc: Days to disease recurrence, relative to study index date
+  Term:
+  - Code: '12432576'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Subject First Treatment Date To Recurrence Day Count
+    Version: '1.00'
+  Type: integer

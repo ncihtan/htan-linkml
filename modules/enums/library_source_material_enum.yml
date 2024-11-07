@@ -1,0 +1,8 @@
+library_source_material:
+  Enum:
+  - Bulk Cells
+  - Bulk Nuclei
+  - Bulk Tissue
+  - Not Reported
+  - Single-cells
+  - Single-nuclei

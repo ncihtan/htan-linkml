@@ -1,0 +1,7 @@
+ethnicity:
+  Enum:
+  - Hispanic or Latino
+  - Not allowed to collect
+  - Not Hispanic or Latino
+  - Not reported
+  - Unknown

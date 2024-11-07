@@ -1,0 +1,49 @@
+library_strategy:
+  Desc: Nucleic acid capture or processing strategy for this library
+  Enum:
+  - AMPLICON
+  - ATAC-Seq
+  - Bisulfite-Seq
+  - ChIA-PET
+  - ChIP-Seq
+  - CLONE
+  - CLONEEND
+  - CTS
+  - DNA-Seq
+  - DNase-Hypersensitivity
+  - EST
+  - FAIRE-seq
+  - FINISHING
+  - FL-cDNA
+  - Hi-C
+  - MBD-Seq
+  - MeDIP-Seq
+  - miRNA-Seq
+  - MNase-Seq
+  - MRE-Seq
+  - ncRNA-Seq
+  - Other
+  - POOLCLONE
+  - RAD-Seq
+  - RIP-Seq
+  - RNA-Seq
+  - scMultiome
+  - SELEX
+  - snATAC-Seq
+  - Spatial-tx
+  - ssRNA-seq
+  - Synthetic-Long-Read
+  - Targeted-Capture
+  - Tethered Chromatin Conformation Capture
+  - Tn-Seq
+  - WCS
+  - WGA
+  - WGS
+  - WXS
+  Req: Preferred
+  Term:
+  - Code: '6273393'
+    Origin: caDSR
+    Value: Sequencing Library Technique Type
+    Version: '1.00'
+  enum_import: ./enums/library_strategy_enum.yml

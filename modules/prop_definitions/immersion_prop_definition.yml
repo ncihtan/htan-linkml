@@ -1,0 +1,9 @@
+immersion:
+  Desc: Immersion medium
+  Term:
+  - Code: '8058286'
+    Origin: caDSR
+    Original Source: HTAN
+    Value: Microscope Device Immersion Medium Type
+    Version: '1.00'
+  Type: string

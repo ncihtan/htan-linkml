@@ -1,0 +1,9 @@
+derived_from_specimen:
+  Desc: Identier of the parent specimen of this sample
+  Term:
+  - Code: '5581201'
+    Origin: caDSR
+    Original Source: HTAN
+    Value: Parent Specimen Label Identifier
+    Version: '1.00'
+  Type: string

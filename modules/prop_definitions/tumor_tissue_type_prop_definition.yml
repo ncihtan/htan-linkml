@@ -1,0 +1,10 @@
+tumor_tissue_type:
+  Desc: Text that describes the kind of disease present in the tumor specimen as related
+    to a specific timepoint (add rows to select multiple values along with timepoints)
+  Term:
+  - Code: '3288124'
+    Origin: caDSR
+    Original Source: HTAN
+    Value: Tumor Tissue Disease Description Type
+    Version: '1.00'
+  Type: string

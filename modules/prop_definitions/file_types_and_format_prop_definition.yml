@@ -1,0 +1,8 @@
+file_types_and_format:
+  Desc: 'Specific kinds of files in the dataset that will be uploaded to CDS
+
+    '
+  Req: 'Yes'
+  Type:
+    item_type: string
+    value_type: list

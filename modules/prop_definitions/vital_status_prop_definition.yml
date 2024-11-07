@@ -1,0 +1,14 @@
+vital_status:
+  Desc: Vital status as of last known follow up
+  Enum:
+  - Alive
+  - Dead
+  - Unknown
+  - Not Reported
+  Term:
+  - Code: '2847330'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Participant Vital Status Type
+    Version: '1.00'
+  enum_import: ./enums/vital_status_enum.yml

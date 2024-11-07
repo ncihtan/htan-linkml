@@ -1,0 +1,10 @@
+physical_size_y:
+  Desc: Physical size (Y-dimension) of a pixel. Floating point value > 0. Size needs
+    to be specified in microns (um)
+  Term:
+  - Code: '7786585'
+    Origin: caDSR
+    Original Source: HTAN
+    Value: Pixel Y-Dimension Float Value
+    Version: '1.00'
+  Type: string

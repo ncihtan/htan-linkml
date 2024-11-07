@@ -1,0 +1,14 @@
+CTAquisitionProtocolElement_exposureModulationType_Code:
+  Desc: The manner in which tube current is varied in order to limit the dose.
+  Enum:
+  - NONE
+  - ANGULAR
+  - LONGITUDINAL
+  - ECG-BASED
+  - ORGAN-BASED
+  Term:
+  - Code: '14617524'
+    Origin: caDSR
+    Value: Imaging Technique Exposure Modulation Type
+    Version: '1.00'
+  enum_import: ./enums/CTAquisitionProtocolElement_exposureModulationType_Code_enum.yml

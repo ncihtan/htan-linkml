@@ -1,0 +1,10 @@
+imaging_equipment_manufacturer:
+  Desc: Producer of the imaging equipment that was used to generate the digital image
+  Req: true
+  Term:
+  - Code: '2866141'
+    Origin: caDSR
+    Original Source: NCI Standard
+    Value: Equipment Manufacturer Name Text
+    Version: '1.00'
+  Type: string

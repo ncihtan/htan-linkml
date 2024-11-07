@@ -1,0 +1,8 @@
+Radiopharmaceutical_radionuclideCode:
+  Desc: A coded value that specifies the radioactive isotope in the radiophamaceutical.
+  Term:
+  - Code: '14612653'
+    Origin: caDSR
+    Value: Imaging Technique Radionuclide Code Text
+    Version: '1.00'
+  Type: string

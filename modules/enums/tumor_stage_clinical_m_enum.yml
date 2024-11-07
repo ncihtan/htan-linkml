@@ -1,0 +1,11 @@
+tumor_stage_clinical_m:
+  Enum:
+  - M0
+  - M1
+  - M1a
+  - M1b
+  - M1c
+  - MX
+  - cM0 (i+)
+  - Unknown
+  - Not Reported

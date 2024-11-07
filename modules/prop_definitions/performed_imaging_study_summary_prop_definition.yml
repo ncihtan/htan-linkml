@@ -1,0 +1,12 @@
+performed_imaging_study_summary:
+  Desc: A brief statement about the characteristics of this element, which is intended
+    for use by the radiologist, technologist and/or physicist during management of
+    the imaging protocol to understand the characteristics of the element in the protocol.
+  Req: true
+  Term:
+  - Code: '14670299'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Imaging Study Process Protocol Element Summary Text
+    Version: '1.00'
+  Type: string

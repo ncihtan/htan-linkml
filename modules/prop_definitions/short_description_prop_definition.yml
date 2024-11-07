@@ -1,0 +1,10 @@
+short_description:
+  Desc: 'Short description that will identify the dataset on public pages
+
+    A clear and concise formula for the title would be like:
+
+    {methodology} of {organism}: {sample info}
+
+    '
+  Req: Preferred
+  Type: string

@@ -1,0 +1,9 @@
+MRImageAcquisitionProtocolElement_pulseSequenceName:
+  Desc: Name of the pulse sequence that is used for the acquisition. This is usually
+    a vendor-specific name.
+  Term:
+  - Code: '14608594'
+    Origin: caDSR
+    Value: Image Acquisition Pulse Sequence Name Text
+    Version: '1.00'
+  Type: string

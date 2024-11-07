@@ -1,0 +1,38 @@
+file_type:
+  Desc: File type from enumerated list
+  Enum:
+  - BAI
+  - BAM
+  - BW
+  - CRAI
+  - CRAM
+  - FASTQ
+  - HTML
+  - IDAT
+  - JSON
+  - MAF
+  - PDF
+  - TSV
+  - TXT
+  - VCF
+  - XLSX
+  - NIFTI
+  - PED
+  - BED
+  - SEG
+  - TAR
+  - CSV
+  - GVCF
+  - TIFF
+  - PNG
+  - CNS
+  - SVG
+  - DICT
+  Req: true
+  Term:
+  - Code: '11416926'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Electronic Data File Format Type
+    Version: '1.00'
+  enum_import: ./enums/file_type_enum.yml

@@ -1,0 +1,4 @@
+methylation_platform:
+  Desc: The equipment used to detect the presence and/or location of methyl groups
+    during DNA or protein analysis.
+  Type: string

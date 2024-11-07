@@ -1,0 +1,11 @@
+md5sum:
+  Desc: MD5 hex digest for this file
+  Req: true
+  Term:
+  - Code: '11556150'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Electronic Data File MD5 Checksum Text
+    Version: '1.00'
+  Type:
+    pattern: ^[0-9a-fA-F]{32}$

@@ -1,0 +1,3 @@
+days_to_last_known_status:
+  Desc: Days to last known status of participant, relative to study index date
+  Type: integer

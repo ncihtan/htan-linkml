@@ -1,0 +1,9 @@
+lens_numerical_aperture:
+  Desc: The numerical aperture of the lens. Floating point value > 0.
+  Term:
+  - Code: '7788942'
+    Origin: caDSR
+    Original Source: HTAN
+    Value: Microscope Device Lens Numerical Aperture Float Value
+    Version: '1.00'
+  Type: string

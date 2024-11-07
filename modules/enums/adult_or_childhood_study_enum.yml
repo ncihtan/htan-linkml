@@ -1,0 +1,4 @@
+adult_or_childhood_study:
+  Enum:
+  - Adult - legal age
+  - Pediatric

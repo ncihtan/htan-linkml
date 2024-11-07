@@ -1,0 +1,10 @@
+incidence_type:
+  Desc: For this diagnosis, disease incidence relative to prior status of subject
+  Enum:
+  - primary
+  - progression
+  - recurrence
+  - metastasis
+  - remission
+  - no_disease
+  enum_import: ./enums/incidence_type_enum.yml

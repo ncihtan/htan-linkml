@@ -1,0 +1,9 @@
+excitation_bandwidth:
+  Desc: nominal width of excitation spectrum (nm)
+  Term:
+  - Code: '14765190'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Excitation Bandwidth Number
+    Version: '1.00'
+  Type: string

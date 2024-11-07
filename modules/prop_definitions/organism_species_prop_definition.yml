@@ -1,0 +1,10 @@
+organism_species:
+  Desc: Species binomial of study participants
+  Req: Preferred
+  Term:
+  - Code: '6118266'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Sample Organism Type
+    Version: '1.00'
+  Type: string

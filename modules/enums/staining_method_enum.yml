@@ -1,0 +1,12 @@
+staining_method:
+  Enum:
+  - CODEX
+  - GeoMX-DSP
+  - H&E
+  - IHC
+  - IMC
+  - MIBI
+  - mIHC
+  - MxIF
+  - SABER
+  - t-CyCIF

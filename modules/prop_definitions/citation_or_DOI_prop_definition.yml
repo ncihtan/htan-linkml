@@ -1,0 +1,11 @@
+citation_or_DOI:
+  Desc: Publication and/or digital object identifier of the publication for open access
+    studies
+  Req: true
+  Term:
+  - Code: '7787673'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Raw Data Protocol Or Digital Object Identifier Text
+    Version: '1.00'
+  Type: string

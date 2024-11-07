@@ -1,0 +1,8 @@
+size_x:
+  Desc: 'Size of image: X dimension (in pixels). Integer >= 1'
+  Term:
+  - Code: '7788567'
+    Origin: caDSR
+    Value: OME TIFF X-Dimension Pixel Measurement
+    Version: '1.00'
+  Type: string

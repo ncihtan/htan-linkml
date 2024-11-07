@@ -1,0 +1,9 @@
+sequence_alignment_software:
+  Desc: Name of software program used to align nucleotide sequence data
+  Req: Preferred
+  Term:
+  - Code: '11529072'
+    Origin: caDSR
+    Value: Nucleotide Sequence Alignment Software Name Text
+    Version: '1.00'
+  Type: string

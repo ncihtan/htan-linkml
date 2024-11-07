@@ -1,0 +1,7 @@
+CTAquisitionProtocolElement_exposureModulationType_Code:
+  Enum:
+  - NONE
+  - ANGULAR
+  - LONGITUDINAL
+  - ECG-BASED
+  - ORGAN-BASED

@@ -1,0 +1,5 @@
+data_access_level:
+  Enum:
+  - open
+  - controlled
+  - mixed

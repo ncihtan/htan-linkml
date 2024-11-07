@@ -1,0 +1,10 @@
+MRImageAcquisitionProtocolElement_magneticFieldStrength:
+  Desc: "A vector quantity indicating the ability of a magnetic field to exert a force\
+    \ on moving electric charges. [The American Heritage\xAE Science Dictionary].\
+    \ The units are of magnetic flux density, e.g. tesla."
+  Term:
+  - Code: '14607707'
+    Origin: caDSR
+    Value: Imaging Technique Magnetic Field Strength Number
+    Version: '1.00'
+  Type: string

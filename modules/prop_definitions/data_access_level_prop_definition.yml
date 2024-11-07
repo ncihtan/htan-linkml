@@ -1,0 +1,8 @@
+data_access_level:
+  Desc: Is data open, controlled, or mixed?
+  Enum:
+  - open
+  - controlled
+  - mixed
+  Req: Preferred
+  enum_import: ./enums/data_access_level_enum.yml

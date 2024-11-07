@@ -1,0 +1,13 @@
+file_mapping_level:
+  Desc: Describes if the file belongs to a Participant, a Sample, or a Study
+  Enum:
+  - Participiant
+  - Sample
+  - Study
+  Term:
+  - Code: '11595478'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Electronic File Relationship Type
+    Version: '1.00'
+  enum_import: ./enums/file_mapping_level_enum.yml

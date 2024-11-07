@@ -1,0 +1,9 @@
+sample_description:
+  Desc: Text description of a sample or specimen.
+  Term:
+  - Code: '2003907'
+    Origin: caDSR
+    Original Source: CCR
+    Value: Sample Description Text
+    Version: '3.00'
+  Type: string

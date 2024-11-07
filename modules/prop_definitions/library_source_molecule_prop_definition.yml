@@ -1,0 +1,16 @@
+library_source_molecule:
+  Desc: Source Molecule
+  Enum:
+  - Genomic
+  - Metagenomic
+  - Metatranscriptomic
+  - Not Reported
+  - Transcriptomic
+  - Viral RNA
+  Req: Preferred
+  Term:
+  - Code: '14808232'
+    Origin: caDSR
+    Value: Sequencing Library Molecule Source
+    Version: '1.00'
+  enum_import: ./enums/library_source_molecule_enum.yml

@@ -1,0 +1,8 @@
+dilution:
+  Desc: Final dilution ratio used in experiment
+  Term:
+  - Code: '14767270'
+    Origin: caDSR
+    Value: Multiplex Imaging Final Dilution Ratio Number
+    Version: '1.00'
+  Type: string

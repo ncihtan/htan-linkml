@@ -1,0 +1,8 @@
+library_id:
+  Desc: Library identifier as submitted by requestor
+  Term:
+  - Code: '11555660'
+    Origin: caDSR
+    Value: Sequencing Library Unique Identifier Text
+    Version: '1.00'
+  Type: string

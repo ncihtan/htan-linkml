@@ -1,0 +1,10 @@
+nominal_magnification:
+  Desc: The magnification of the lens as specified by the manufacturer - i.e. '60'
+    is a 60X lens. floating point value > 1(no units)
+  Term:
+  - Code: '7788940'
+    Origin: caDSR
+    Original Source: HTAN
+    Value: Microscope Device Nominal Magnification Float Value
+    Version: '1.00'
+  Type: string

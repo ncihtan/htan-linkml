@@ -1,0 +1,9 @@
+sample_age_at_collection:
+  Desc: Number of days to collection, relative to index date
+  Term:
+  - Code: '14473376'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Subject Age At Specimen Collection Day Count
+    Version: '1.00'
+  Type: integer

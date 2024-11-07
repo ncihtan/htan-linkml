@@ -1,0 +1,8 @@
+size_y:
+  Desc: 'Size of image: Y dimension (in pixels). Integer >= 1'
+  Term:
+  - Code: '7788568'
+    Origin: caDSR
+    Value: OME TIFF Y-Dimension Pixel Measurement
+    Version: '1.00'
+  Type: string

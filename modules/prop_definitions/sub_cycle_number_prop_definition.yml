@@ -1,0 +1,9 @@
+sub_cycle_number:
+  Desc: 'sub-cycle #'
+  Term:
+  - Code: '14765180'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Reagent Sub-Cycle Number Integer
+    Version: '1.00'
+  Type: string

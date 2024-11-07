@@ -1,0 +1,9 @@
+catalog_number:
+  Desc: catalog number from vendor
+  Term:
+  - Code: '14767261'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Vendor Catalog Number Text
+    Version: '1.00'
+  Type: string

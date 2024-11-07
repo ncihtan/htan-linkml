@@ -1,0 +1,9 @@
+emission_wavelength:
+  Desc: center/peak of the emission spectrum (nm)
+  Term:
+  - Code: '14767264'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Emission Wavelength Number
+    Version: '1.00'
+  Type: string

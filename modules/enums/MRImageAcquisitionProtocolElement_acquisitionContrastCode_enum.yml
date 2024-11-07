@@ -1,0 +1,13 @@
+MRImageAcquisitionProtocolElement_acquisitionContrastCode:
+  Enum:
+  - DIFFUSION
+  - FLOW_ENCODED_Flow Encoded contrast
+  - FLUID_ATTENUATED_Fluid Attenuated T2 weighted contrast
+  - PERFUSION_Perfusion weighted contrast
+  - PROTON_DENSITY_Proton Density weighted contrast
+  - STIR_Short Tau Inversion Recovery
+  - TAGGING_Superposition of thin saturation bands onto image
+  - T1_T1 weighted contrast
+  - T2_T2 weighted contrast
+  - T2_STAR_T2* weighted contrast
+  - TOF_Time Of Flight weighted contrast

@@ -1,0 +1,34 @@
+tissue_fixative:
+  Desc: A compound that preserves tissues and cells for microscopic study.
+  Enum:
+  - 95% Ethanol
+  - Acetone
+  - Alcohol
+  - Carbodiimide
+  - Carnoy's Solution
+  - CryoStor
+  - Diimidoester
+  - Dimethylacetamide
+  - Formalin
+  - Glutaraldehyde
+  - Methacarn
+  - Not applicable
+  - Not recorded
+  - NP40 Lysis Buffer
+  - OCT media
+  - Other
+  - Para-benzoquinone
+  - PAXgene Tissue
+  - Poloxamer
+  - RNAlater
+  - Saline
+  - TCL Lysis Buffer
+  - Unknown
+  Req: true
+  Term:
+  - Code: '65078'
+    Origin: caDSR
+    Original Source: NCI Standard
+    Value: Specimen Fixative Type
+    Version: '4.00'
+  enum_import: ./enums/tissue_fixative_enum.yml

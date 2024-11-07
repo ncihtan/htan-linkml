@@ -1,0 +1,63 @@
+image_modality:
+  Desc: The method in which the images are generated.
+  Enum:
+  - AR
+  - BI
+  - BMD
+  - EPS
+  - CR
+  - CT
+  - CFM
+  - DMS
+  - DG
+  - DX
+  - ECG
+  - EEG
+  - EMG
+  - EOG
+  - ES
+  - XC
+  - GM
+  - HD
+  - IO
+  - IVOCT
+  - IVUS
+  - KER
+  - LS
+  - LEN
+  - MR
+  - MG
+  - NM
+  - OAM
+  - OPM
+  - OP
+  - OPT
+  - OPTBSV
+  - OPTENF
+  - OPV
+  - OCT
+  - OSS
+  - PX
+  - PA
+  - POS
+  - PT
+  - RF
+  - RG
+  - RESP
+  - RTIMAGE
+  - SM
+  - SRF
+  - TG
+  - US
+  - BDUS
+  - VA
+  - XA
+  - Not specified in data
+  Req: true
+  Term:
+  - Code: '12137353'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Imaging Technology DICOM Modality Type
+    Version: '1.00'
+  enum_import: ./enums/image_modality_enum.yml

@@ -1,0 +1,14 @@
+participant_id:
+  Desc: 'A number or a string that may contain metadata information, for a participant
+
+    who has taken part in the investigation or study.
+
+    '
+  Req: true
+  Term:
+  - Code: '12220014'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Subject Data Origin Identifier
+    Version: '1.00'
+  Type: string

@@ -1,0 +1,7 @@
+study_diagnosis_id:
+  Desc: The property study_diagnosis_id is a compound property, combining the property
+    diagnosis_id and the parent property participant.study_participant_id. It is the
+    ID property for the node diagnosis.
+  Key: true
+  Req: true
+  Type: string

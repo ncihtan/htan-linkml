@@ -1,0 +1,9 @@
+metal_isotope_element_mass:
+  Desc: Element mass number
+  Term:
+  - Code: '14765201'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Isotope Element Number Identifier
+    Version: '1.00'
+  Type: string

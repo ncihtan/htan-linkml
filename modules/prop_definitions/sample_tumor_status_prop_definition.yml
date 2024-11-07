@@ -1,0 +1,16 @@
+sample_tumor_status:
+  Desc: Tumor or normal status
+  Enum:
+  - Normal
+  - Not Reported
+  - Peritumoral
+  - Tumor
+  - Unknown
+  Req: 'Yes'
+  Term:
+  - Code: '14688604'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Specimen Neoplasm Category
+    Version: '1.00'
+  enum_import: ./enums/sample_tumor_status_enum.yml

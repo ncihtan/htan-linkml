@@ -1,0 +1,9 @@
+funding_agency:
+  Desc: Funding agency of the requestor study
+  Req: Preferred
+  Term:
+  - Code: '11524545'
+    Origin: caDSR
+    Value: Funding Agency Organization Name Text
+    Version: '1.00'
+  Type: string

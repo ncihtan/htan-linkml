@@ -1,0 +1,10 @@
+CTImageReconstructionProtocolElement_convolutionKernel:
+  Desc: A label describing the mathematical operations used to reconstruct images
+    from the acquired data. The values for this attribute are vendor specific and
+    not coded.
+  Term:
+  - Code: '2656119'
+    Origin: caDSR
+    Value: Image Convolution Kernel 16 Character Text
+    Version: '1.00'
+  Type: string

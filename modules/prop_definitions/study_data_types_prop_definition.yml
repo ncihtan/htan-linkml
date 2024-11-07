@@ -1,0 +1,13 @@
+study_data_types:
+  Desc: Types of scientific data in the study
+  Enum:
+  - Genomic
+  - Proteomic
+  - Imaging
+  Req: 'Yes'
+  Term:
+  - Code: '12571096'
+    Origin: caDSR
+    Value: Data Collection Scientific Data Type Category
+    Version: '1.00'
+  enum_import: ./enums/study_data_types_enum.yml

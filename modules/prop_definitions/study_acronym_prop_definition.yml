@@ -1,0 +1,9 @@
+study_acronym:
+  Desc: Short acronym or other study desginator
+  Term:
+  - Code: '11459812'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Study Short Name Text
+    Version: '1.00'
+  Type: string

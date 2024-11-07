@@ -1,0 +1,7 @@
+MRImageAcquisitionProtocolElement_steadyStatePulseSequenceCode:
+  Enum:
+  - FREE PRECESSION
+  - TRANSVERSE
+  - TIME REVERSED
+  - LONGITUDINAL
+  - NONE

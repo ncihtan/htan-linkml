@@ -1,0 +1,9 @@
+days_to_last_followup:
+  Desc: Days to last participant followup, relative to study index date
+  Term:
+  - Code: '12426616'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Subject Initial Cancer Diagnosis To Last Followup Day Count
+    Version: '1.00'
+  Type: integer

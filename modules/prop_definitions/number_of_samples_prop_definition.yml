@@ -1,0 +1,9 @@
+number_of_samples:
+  Desc: How many total samples in the study
+  Req: 'Yes'
+  Term:
+  - Code: '11555663'
+    Origin: caDSR
+    Value: Research Activity Sample Size Count
+    Version: '1.00'
+  Type: number

@@ -1,0 +1,11 @@
+performed_imaging_study_description:
+  Desc: The textual representation of the certain or salient aspects, characteristics,
+    or features of the imaging study. [Adapted from www.businessdictionary.com]
+  Req: true
+  Term:
+  - Code: '2182389'
+    Origin: caDSR
+    Original Source: DICOM
+    Value: Image Study Description 64 Character Text
+    Version: '2.10'
+  Type: string

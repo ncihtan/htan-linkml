@@ -1,0 +1,10 @@
+sex:
+  Enum:
+  - Decline to answer
+  - Don't know
+  - Female
+  - Intersex
+  - Male
+  - None of these describe me
+  - Prefer not to answer
+  - Unknown

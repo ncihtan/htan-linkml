@@ -1,0 +1,9 @@
+lot:
+  Desc: lot number from vendor
+  Term:
+  - Code: '14769695'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Vendor Lot Number Text
+    Version: '1.00'
+  Type: string

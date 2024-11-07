@@ -1,0 +1,9 @@
+MRImageAcquisitionProtocolElement_echoPlanarPulseSequenceIndicator:
+  Desc: Specifies whether multiple echos of different phase steps are acquired using
+    rephasing gradients instead of repeated 180-degree pulses.
+  Term:
+  - Code: '14612651'
+    Origin: caDSR
+    Value: Image Acquisition Echo Planar Pulse Sequence Indicator
+    Version: '1.00'
+  Type: string

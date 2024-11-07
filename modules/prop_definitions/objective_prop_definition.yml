@@ -1,0 +1,9 @@
+objective:
+  Desc: An objective is an optical element that gathers light from an object being
+    observed and focuses the light rays from it to produce a real image of the object.
+  Term:
+  - Code: '7788935'
+    Origin: caDSR
+    Value: Microscope Device Objective Lens Text
+    Version: '1.00'
+  Type: string

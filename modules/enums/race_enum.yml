@@ -1,0 +1,10 @@
+race:
+  Enum:
+  - American Indian or Alaska Native
+  - Asian
+  - Black or African American
+  - Native Hawaiian or other Pacific Islander
+  - Not allowed to collect
+  - Not Reported
+  - Unknown
+  - White

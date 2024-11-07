@@ -1,0 +1,10 @@
+imaging_assay_type:
+  Desc: Type of imaging assay
+  Req: true
+  Term:
+  - Code: '7789196'
+    Origin: caDSR
+    Original Source: HTAN
+    Value: Imaging Assay Technology Type
+    Version: '1.00'
+  Type: string

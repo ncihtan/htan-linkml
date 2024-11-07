@@ -1,0 +1,11 @@
+PETImagingAcquisitionProtocolElement_gantryDetectorTilt:
+  Desc: Nominal angle of tilt in degrees of the scanning gantry. The units are of
+    plane angle , e.g. degrees.  Zero degrees means the gantry is not tilted, negative
+    degrees are when the top of the gantry is tilted away from where the table enters
+    the gantry.
+  Term:
+  - Code: '2656117'
+    Origin: caDSR
+    Value: Image Gantry Detector Tilt 16 Character Number
+    Version: '1.00'
+  Type: string

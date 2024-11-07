@@ -1,0 +1,5 @@
+program_short_description:
+  Desc: An abbreviated, single sentence description of the program.
+  Req: Preferred
+  Src: Internally-curated
+  Type: string

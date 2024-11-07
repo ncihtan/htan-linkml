@@ -1,0 +1,10 @@
+working_distance:
+  Desc: The working distance of the lens, expressed as a floating point number. Floating
+    point > 0. Size needs to be specified in microns (um)
+  Term:
+  - Code: '7788943'
+    Origin: caDSR
+    Original Source: HTAN
+    Value: Microscope Device Working Distance Float Value
+    Version: '1.00'
+  Type: string

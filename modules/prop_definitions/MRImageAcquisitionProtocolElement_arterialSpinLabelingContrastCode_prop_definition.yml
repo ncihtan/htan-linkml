@@ -1,0 +1,8 @@
+MRImageAcquisitionProtocolElement_arterialSpinLabelingContrastCode:
+  Desc: A coded value specifying how arterial water is used as a diffusable tracer.
+  Term:
+  - Code: '14616429'
+    Origin: caDSR
+    Value: Imaging Technique Arterial Spin Labeling Contrast Name
+    Version: '1.00'
+  Type: string

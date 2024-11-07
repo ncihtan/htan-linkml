@@ -1,0 +1,11 @@
+longitudinal_temporal_event_offset:
+  Desc: An offset in days from a particular event of significance. May be fractional.
+    In the context of a clinical trial, this is often the days since enrollment, or
+    the baseline imaging Study.
+  Term:
+  - Code: '14612661'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Longitudinal Study Temporal Offset Number
+    Version: '1.00'
+  Type: number

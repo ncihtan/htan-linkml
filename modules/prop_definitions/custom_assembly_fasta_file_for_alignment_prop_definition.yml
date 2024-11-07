@@ -1,0 +1,10 @@
+custom_assembly_fasta_file_for_alignment:
+  Desc: File name of any custom assembly fasta file used during alignment
+  Req: Preferred
+  Term:
+  - Code: '11636299'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Genome Assembly Custom FASTA File Name
+    Version: '1.00'
+  Type: string

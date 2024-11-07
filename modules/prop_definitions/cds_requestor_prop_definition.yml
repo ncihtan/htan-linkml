@@ -1,0 +1,3 @@
+cds_requestor:
+  Desc: Identifies the user requesting storage in CDS
+  Type: string

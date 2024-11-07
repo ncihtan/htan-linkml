@@ -1,0 +1,12 @@
+embedding_medium:
+  Enum:
+  - Paraffin wax
+  - Carbowax
+  - Methacrylate
+  - Epoxy Resin (Araldite)
+  - Agar embedding
+  - Celloidin media
+  - Gelatin
+  - Other
+  - None
+  - Unknown

@@ -1,0 +1,10 @@
+file_name:
+  Desc: Name of file
+  Req: true
+  Term:
+  - Code: '11284037'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Electronic Data File Name
+    Version: '1.00'
+  Type: string

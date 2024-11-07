@@ -1,0 +1,9 @@
+antibody_name:
+  Desc: short descriptive name for this antibody
+  Term:
+  - Code: '14765184'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Tissue Slide IHC Antibody Used Type
+    Version: '1.00'
+  Type: string

@@ -1,0 +1,22 @@
+tumor_grade:
+  Desc: Numeric value to express the degree of abnormality of cancer cells, a measure
+    of differentiation and aggressiveness.
+  Enum:
+  - G1
+  - G2
+  - G3
+  - G4
+  - GX
+  - GB
+  - High Grade
+  - Intermediate Grade
+  - Low Grade
+  - Unknown
+  - Not Reported
+  Term:
+  - Code: '11325685'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Diagnosis Tumor Grade
+    Version: '1.00'
+  enum_import: ./enums/tumor_grade_enum.yml

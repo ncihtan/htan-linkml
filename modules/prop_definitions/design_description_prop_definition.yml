@@ -1,0 +1,10 @@
+design_description:
+  Desc: Human-readable description of methods used to create sequencing library
+  Req: Preferred
+  Term:
+  - Code: '11529028'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Sequencing Library Platform Model Name
+    Version: '1.00'
+  Type: string

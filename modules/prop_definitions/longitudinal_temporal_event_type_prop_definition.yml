@@ -1,0 +1,9 @@
+longitudinal_temporal_event_type:
+  Desc: The type of event to which Longitudinal Temporal Offset from Event is relative.
+  Term:
+  - Code: '14670294'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Longitudinal Study Temporal Event Type
+    Version: '1.00'
+  Type: number

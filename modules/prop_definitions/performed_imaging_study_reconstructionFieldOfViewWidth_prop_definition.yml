@@ -1,0 +1,10 @@
+performed_imaging_study_reconstructionFieldOfViewWidth:
+  Desc: The horizontal dimension of the rectangular region from which data is used
+    in creating the reconstruction of the image.
+  Req: true
+  Term:
+  - Code: '14612674'
+    Origin: caDSR
+    Value: Imaging Reconstruction Protocol Field of View Width Number
+    Version: '1.00'
+  Type: string

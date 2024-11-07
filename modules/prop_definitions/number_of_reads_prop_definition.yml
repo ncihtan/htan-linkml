@@ -1,0 +1,9 @@
+number_of_reads:
+  Desc: Total number of reads performed
+  Req: Preferred
+  Term:
+  - Code: '11529035'
+    Origin: caDSR
+    Value: Sequencing Library Sequence Read Count
+    Version: '1.00'
+  Type: integer

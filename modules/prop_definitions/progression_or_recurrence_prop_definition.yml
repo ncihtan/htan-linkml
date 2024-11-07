@@ -1,0 +1,16 @@
+progression_or_recurrence:
+  Desc: Yes/No/Unknown indicator to identify whether a patient has had a new tumor
+    event after initial treatment.
+  Enum:
+  - 'Yes'
+  - 'No'
+  - Unknown
+  - Not Reported
+  - Not Allowed To Collect
+  Term:
+  - Code: '13529783'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Disease Progression Or Recurrence Indicator
+    Version: '1.00'
+  enum_import: ./enums/progression_or_recurrence_enum.yml

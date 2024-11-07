@@ -1,0 +1,5 @@
+study_data_types:
+  Enum:
+  - Genomic
+  - Proteomic
+  - Imaging

@@ -1,0 +1,13 @@
+MRImageAcquisitionProtocolElement_echoPulseSequenceCategoryCode:
+  Desc: A coded value specifying an echo category of pulse sequences.
+  Enum:
+  - SPIN
+  - GRADIENT
+  - BOTH
+  Term:
+  - Code: '14645641'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Image Acquisition Spin-Echo Pulse Sequence Code Category
+    Version: '1.00'
+  enum_import: ./enums/MRImageAcquisitionProtocolElement_echoPulseSequenceCategoryCode_enum.yml

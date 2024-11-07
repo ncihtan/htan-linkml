@@ -1,0 +1,6 @@
+study_link_id:
+  Desc: The study_link_id is ID property for the node image. It should consist of
+    a string and a number.
+  Key: true
+  Req: true
+  Type: string

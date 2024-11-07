@@ -1,0 +1,10 @@
+title:
+  Desc: The abbreviation that represents an affix occurring at or before the beginning
+    of an individual's name.
+  Term:
+  - Code: '2663165'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Person Name Prefix Abbreviation Text
+    Version: '1.00'
+  Type: String

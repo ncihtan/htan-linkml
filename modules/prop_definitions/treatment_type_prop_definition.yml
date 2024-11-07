@@ -1,0 +1,38 @@
+treatment_type:
+  Desc: Text term that describes the kind of treatment administered
+  Enum:
+  - 3-Dimensional Conformal Radiation Therapy
+  - Allogeneic Hematopoietic Stem Cell Transplantation
+  - Autologous Stem Cell Transplantation
+  - Brachytherapy
+  - Cellular Therapy
+  - Chemotherapy
+  - Concurrent Chemoradiation
+  - Conventional Radiotherapy
+  - Electron Beam Radiation Therapy
+  - External Beam Radiation Therapy
+  - High-Dose Rate Brachytherapy
+  - Hormone Therapy
+  - Immunotherapy
+  - Intensity-Modulated Radiation Therapy
+  - Low-Dose Rate Brachytherapy
+  - Not Reported
+  - Pharmacotherapy
+  - Photon Beam Radiation Therapy
+  - Proton Beam Radiation Therapy
+  - Radiation Therapy
+  - Radiofrequency Ablation
+  - Radiopharmaceutical
+  - Stem Cell Transplant
+  - Stereotactic Body Radiation Therapy
+  - Stereotactic Radiosurgery
+  - Surgical Procedure
+  - Targeted Molecular Therapy
+  - Unknown
+  Term:
+  - Code: '14737565'
+    Origin: caDSR
+    Original Source: TCGA
+    Value: Therapeutic Procedure Performed Type
+    Version: '1.00'
+  enum_import: ./enums/treatment_type_enum.yml

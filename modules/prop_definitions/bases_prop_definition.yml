@@ -1,0 +1,9 @@
+bases:
+  Desc: Total number of unique bases read
+  Req: Preferred
+  Term:
+  - Code: '12373573'
+    Origin: caDSR
+    Value: Sequencing Library Unique Basecalling Count
+    Version: '1.00'
+  Type: integer

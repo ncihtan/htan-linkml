@@ -1,0 +1,6 @@
+reference_genome_assembly:
+  Enum:
+  - GRCh37
+  - GRCh37-lite
+  - GRCh38
+  - Not specified in data

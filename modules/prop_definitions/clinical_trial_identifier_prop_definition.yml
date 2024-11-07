@@ -1,0 +1,10 @@
+clinical_trial_identifier:
+  Desc: 'Study identifier in the given clinical trial system
+
+    '
+  Term:
+  - Code: '14673514'
+    Origin: caDSR
+    Value: Clinical Trial Study Protocol Unique Identifier
+    Version: '1.00'
+  Type: string

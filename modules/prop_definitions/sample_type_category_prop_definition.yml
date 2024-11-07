@@ -1,0 +1,9 @@
+sample_type_category:
+  Desc: The kind of material that forms the sample.
+  Term:
+  - Code: '12445832'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Specimen Material Biospecimen Category
+    Version: '1.00'
+  Type: string

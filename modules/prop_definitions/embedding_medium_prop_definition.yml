@@ -1,0 +1,22 @@
+embedding_medium:
+  Desc: A material that infiltrates and supports a specimen and preserves its shape
+    and structure for sectioning and microscopy.
+  Enum:
+  - Paraffin wax
+  - Carbowax
+  - Methacrylate
+  - Epoxy Resin (Araldite)
+  - Agar embedding
+  - Celloidin media
+  - Gelatin
+  - Other
+  - None
+  - Unknown
+  Req: true
+  Term:
+  - Code: '8037927'
+    Origin: caDSR
+    Original Source: HTAN
+    Value: Biospecimen Collection Medium Type
+    Version: '1.00'
+  enum_import: ./enums/embedding_medium_enum.yml

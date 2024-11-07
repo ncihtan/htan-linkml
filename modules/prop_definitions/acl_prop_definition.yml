@@ -1,0 +1,9 @@
+acl:
+  Desc: open or restricted access to data
+  Term:
+  - Code: '11555664'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Electronic Data File Access Level Text
+    Version: '1.00'
+  Type: string

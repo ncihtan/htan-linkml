@@ -1,0 +1,7 @@
+progression_or_recurrence:
+  Enum:
+  - 'Yes'
+  - 'No'
+  - Unknown
+  - Not Reported
+  - Not Allowed To Collect

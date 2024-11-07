@@ -1,0 +1,48 @@
+disease_type:
+  Enum:
+  - Acinar Cell Neoplasms
+  - Adenomas and Adenocarcinomas
+  - Adnexal and Skin Appendage Neoplasms
+  - Basal Cell Neoplasms
+  - Blood Vessel Tumors
+  - Complex Mixed and Stromal Neoplasms
+  - Cystic, Mucinous and Serous Neoplasms
+  - Ductal and Lobular Neoplasms
+  - Epithelial Neoplasms, NOS
+  - Fibroepithelial Neoplasms
+  - Fibromatous Neoplasms
+  - Germ Cell Neoplasms
+  - Giant Cell Tumors
+  - Gliomas
+  - Granular Cell Tumors and Alveolar Soft Part Sarcomas
+  - Immunoproliferative Diseases
+  - Leukemias
+  - Lipomatous Neoplasms
+  - Lymphatic Vessel Tumors
+  - Mast Cell Neoplasm
+  - Meningiomas
+  - Mesothelial Neoplasms
+  - Miscellaneous Bone Tumors
+  - Miscellaneous Tumors
+  - Mucoepidermoid Neoplasms
+  - Myelodysplastic Syndromes
+  - Myomatous Neoplasms
+  - Myxomatous Neoplasms
+  - Neoplasms, NOS
+  - Nerve Sheath Tumors
+  - Neuroepitheliomatous Neoplasms
+  - Nevi and Melanomas
+  - Not Applicable
+  - Not Otherwise Specified
+  - Not Reported
+  - Odontogenic Tumors
+  - Osseous and Chondromatous Neoplasms
+  - Paragangliomas and Glomus Tumors
+  - Plasma Cell Neoplasm
+  - Soft Tissue Tumors and Sarcomas, NOS
+  - Squamous Cell Neoplasms
+  - Synovial-like Neoplasms
+  - Thymic Epithelial Neoplasms
+  - Transitional Cell Papillomas and Carcinomas
+  - Trophoblastic neoplasms
+  - Unknown

@@ -1,0 +1,22 @@
+platform:
+  Desc: Instrument platform or manufacturer
+  Enum:
+  - ABI Solid
+  - BGISEQ
+  - Capillary
+  - Complete Genomics
+  - Helicos
+  - Illumina
+  - Ion Torrent
+  - LS 454
+  - Oxford Nanopore
+  - PacBio SMRT
+  - Ultima
+  Req: Preferred
+  Term:
+  - Code: '6347771'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Sequencing Library Platform Name
+    Version: '1.00'
+  enum_import: ./enums/platform_enum.yml

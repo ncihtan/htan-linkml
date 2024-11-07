@@ -1,0 +1,6 @@
+study_version:
+  Desc: The version of the phs accession
+  Req: true
+  Type:
+    item_type: string
+    value_type: list

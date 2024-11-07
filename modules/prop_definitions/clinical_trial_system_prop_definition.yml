@@ -1,0 +1,7 @@
+clinical_trial_system:
+  Desc: 'Organization that provides clinical trial identifier (if study
+
+    is a clinical trial)
+
+    '
+  Type: string

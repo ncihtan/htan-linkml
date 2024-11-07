@@ -1,0 +1,19 @@
+performed_imaging_study_respiratoryMotionTechniqueCode:
+  Desc: The means to be used to coordinate the collection or reconstruction of data
+    with breathing.
+  Enum:
+  - BREATH-HOLD
+  - REALTIME
+  - GATING
+  - TRACKING
+  - RETROSPECTIVE
+  - CORRECTION
+  - NONE
+  Req: true
+  Term:
+  - Code: '14617522'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Image Study Respiratory Motion Technique Code Name
+    Version: '1.00'
+  enum_import: ./enums/performed_imaging_study_respiratoryMotionTechniqueCode_enum.yml

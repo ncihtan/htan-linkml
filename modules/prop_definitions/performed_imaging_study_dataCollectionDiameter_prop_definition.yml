@@ -1,0 +1,10 @@
+performed_imaging_study_dataCollectionDiameter:
+  Desc: The diameter of the region over which information is acquired.
+  Req: true
+  Term:
+  - Code: '14612665'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Image Acquisition Data Collection Location Diameter Number
+    Version: '1.00'
+  Type: string

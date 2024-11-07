@@ -1,0 +1,5 @@
+performed_imaging_study_bodyPositionCode:
+  Enum:
+  - Supine
+  - Trendelenburg
+  - Standing

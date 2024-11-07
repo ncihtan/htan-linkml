@@ -1,0 +1,7 @@
+study_access:
+  Desc: Study access
+  Enum:
+  - Open
+  - Controlled
+  Req: true
+  enum_import: ./enums/study_access_enum.yml

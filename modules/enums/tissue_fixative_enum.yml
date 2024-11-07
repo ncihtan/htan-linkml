@@ -1,0 +1,25 @@
+tissue_fixative:
+  Enum:
+  - 95% Ethanol
+  - Acetone
+  - Alcohol
+  - Carbodiimide
+  - Carnoy's Solution
+  - CryoStor
+  - Diimidoester
+  - Dimethylacetamide
+  - Formalin
+  - Glutaraldehyde
+  - Methacarn
+  - Not applicable
+  - Not recorded
+  - NP40 Lysis Buffer
+  - OCT media
+  - Other
+  - Para-benzoquinone
+  - PAXgene Tissue
+  - Poloxamer
+  - RNAlater
+  - Saline
+  - TCL Lysis Buffer
+  - Unknown

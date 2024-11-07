@@ -1,0 +1,9 @@
+emission_bandwidth:
+  Desc: nominal width of emission spectrum (nm)
+  Term:
+  - Code: '14765193'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Emission Bandwidth Number
+    Version: '1.00'
+  Type: string

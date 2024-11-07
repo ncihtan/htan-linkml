@@ -1,0 +1,23 @@
+library_source:
+  Desc: Source material used to create library
+  Enum:
+  - Genomic
+  - Transcriptomic
+  - Metagenomic
+  - Metatranscriptomic
+  - Synthetic
+  - Viral RNA
+  - Genomic Single Cell
+  - Single Nucleus
+  - Transcriptomic Single Cell
+  - Other
+  - Bulk Whole Cell
+  - Single Cell
+  Req: Preferred
+  Term:
+  - Code: '6285979'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Sequencing Library Specimen Source
+    Version: '1.00'
+  enum_import: ./enums/library_source_enum.yml

@@ -1,0 +1,9 @@
+CTImageReconstructionProtocolElement_convolutionKernelGroupCode:
+  Desc: A coded value specifying the family of mathematical operations to use to reconstruct
+    images from the acquired data
+  Term:
+  - Code: '14617525'
+    Origin: caDSR
+    Value: Imaging Technique Convolution Kernel Group Name
+    Version: '1.00'
+  Type: string

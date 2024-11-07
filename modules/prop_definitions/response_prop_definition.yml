@@ -1,0 +1,9 @@
+response:
+  Desc: Text term that describes the patient's final outcome after the treatment was
+    administered.
+  Term:
+  - Code: '13383448'
+    Origin: caDSR
+    Value: Disease Response Assessment Outcome
+    Version: '1.00'
+  Type: string

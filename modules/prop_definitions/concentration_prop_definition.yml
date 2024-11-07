@@ -1,0 +1,9 @@
+concentration:
+  Desc: Final concentration used in experiment
+  Term:
+  - Code: '14768386'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Final Concentration Number
+    Version: '1.00'
+  Type: string

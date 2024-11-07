@@ -1,0 +1,13 @@
+tumor_grade:
+  Enum:
+  - G1
+  - G2
+  - G3
+  - G4
+  - GX
+  - GB
+  - High Grade
+  - Intermediate Grade
+  - Low Grade
+  - Unknown
+  - Not Reported

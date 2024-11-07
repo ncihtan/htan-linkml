@@ -1,0 +1,7 @@
+file_access:
+  Desc: File access
+  Enum:
+  - Open
+  - Controlled
+  - Not specified in data
+  enum_import: ./enums/file_access_enum.yml

@@ -1,0 +1,10 @@
+performed_imaging_study_reconstructionInterval:
+  Desc: The cross plane distance between the centers of adjacent, parallel reconstructed
+    images.
+  Req: true
+  Term:
+  - Code: '14612682'
+    Origin: caDSR
+    Value: Imaging Reconstruction Protocol Reconstruction Interval Millimeter Number
+    Version: '1.00'
+  Type: string

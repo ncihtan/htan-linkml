@@ -1,0 +1,4 @@
+cds_primary_bucket:
+  Desc: The primary bucket for depositing data
+  Req: Preferred
+  Type: string

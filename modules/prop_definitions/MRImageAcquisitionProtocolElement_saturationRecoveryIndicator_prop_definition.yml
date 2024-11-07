@@ -1,0 +1,8 @@
+MRImageAcquisitionProtocolElement_saturationRecoveryIndicator:
+  Desc: Specifies whether a saturation recovery pulse sequence is used
+  Term:
+  - Code: '14612652'
+    Origin: caDSR
+    Value: Imaging Technique Saturation Recovery Indicator
+    Version: '1.00'
+  Type: string

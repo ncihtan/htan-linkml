@@ -1,0 +1,9 @@
+clone:
+  Desc: Unique clone identifier
+  Term:
+  - Code: '14767258'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Clone Unique Identifier
+    Version: '1.00'
+  Type: string

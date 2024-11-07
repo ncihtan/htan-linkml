@@ -1,0 +1,10 @@
+last_name:
+  Desc: A means of identifying an individual by using a word or group of words indicating
+    a person's last (family) name. Synonym = Last Name, Surname.
+  Term:
+  - Code: '2179591'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Person Family/Last Name
+    Version: '2.00'
+  Type: string

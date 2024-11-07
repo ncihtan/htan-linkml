@@ -1,0 +1,6 @@
+MRImageReconstructionProtocolElement_complexImageComponentCode:
+  Enum:
+  - REAL
+  - IMAGINARY
+  - PHASE
+  - MAGNITUDE

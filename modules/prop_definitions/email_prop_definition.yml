@@ -1,0 +1,10 @@
+email:
+  Desc: The string of characters that represents the electronic mail address of a
+    person.
+  Term:
+  - Code: '2517550'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Person Email
+    Version: '1.00'
+  Type: string

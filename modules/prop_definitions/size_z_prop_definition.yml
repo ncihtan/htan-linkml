@@ -1,0 +1,8 @@
+size_z:
+  Desc: 'Size of image: Z dimension (in pixels). Integer >= 1'
+  Term:
+  - Code: '7788569'
+    Origin: caDSR
+    Value: OME TIFF Z-Dimension Pixel Measurement
+    Version: '1.00'
+  Type: string

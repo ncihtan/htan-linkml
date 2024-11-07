@@ -1,0 +1,6 @@
+vital_status:
+  Enum:
+  - Alive
+  - Dead
+  - Unknown
+  - Not Reported

@@ -1,0 +1,10 @@
+imaging_sofware:
+  Desc: The name of the software package that was used to capture, generate, and process
+    the image.
+  Term:
+  - Code: '2413278'
+    Origin: caDSR
+    Original Source: NCI Standard
+    Value: Equipment Software Version Text
+    Version: '1.20'
+  Type: string

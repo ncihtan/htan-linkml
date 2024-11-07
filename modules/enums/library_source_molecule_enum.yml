@@ -1,0 +1,8 @@
+library_source_molecule:
+  Enum:
+  - Genomic
+  - Metagenomic
+  - Metatranscriptomic
+  - Not Reported
+  - Transcriptomic
+  - Viral RNA

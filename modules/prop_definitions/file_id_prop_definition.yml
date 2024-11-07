@@ -1,0 +1,7 @@
+file_id:
+  Desc: File identifier
+  Key: true
+  Req: true
+  Tags:
+    Template: 'No'
+  Type: string

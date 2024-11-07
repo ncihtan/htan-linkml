@@ -1,0 +1,19 @@
+race:
+  Desc: OMB Race designator
+  Enum:
+  - American Indian or Alaska Native
+  - Asian
+  - Black or African American
+  - Native Hawaiian or other Pacific Islander
+  - Not allowed to collect
+  - Not Reported
+  - Unknown
+  - White
+  Req: Preferred
+  Term:
+  - Code: '2192199'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Race Category Text
+    Version: '1.00'
+  enum_import: ./enums/race_enum.yml

@@ -1,0 +1,10 @@
+study_name:
+  Desc: Official name of study
+  Req: 'Yes'
+  Term:
+  - Code: '11459810'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Study Name
+    Version: '1.00'
+  Type: string

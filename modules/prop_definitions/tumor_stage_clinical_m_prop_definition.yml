@@ -1,0 +1,21 @@
+tumor_stage_clinical_m:
+  Desc: Extent of the distant metastasis for the cancer based on evidence obtained
+    from clinical assessment parameters determined prior to treatment.
+  Enum:
+  - M0
+  - M1
+  - M1a
+  - M1b
+  - M1c
+  - MX
+  - cM0 (i+)
+  - Unknown
+  - Not Reported
+  Term:
+  - Code: '3440331'
+    Origin: caDSR
+    Original Source: TCGA
+    Value: Neoplasm American Joint Committee on Cancer Clinical Distant Metastasis
+      M Stage
+    Version: '1.00'
+  enum_import: ./enums/tumor_stage_clinical_m_enum.yml

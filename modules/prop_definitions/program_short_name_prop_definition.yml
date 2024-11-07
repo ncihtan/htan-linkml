@@ -1,0 +1,11 @@
+program_short_name:
+  Desc: An acronym or abbreviated form of the title of a broad framework of goals
+    under which related projects or other research activities are grouped. Example
+    - CPTAC
+  Term:
+  - Code: '11459801'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Program Short Name Text
+    Version: '1.00'
+  Type: String

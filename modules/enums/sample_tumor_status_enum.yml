@@ -1,0 +1,7 @@
+sample_tumor_status:
+  Enum:
+  - Normal
+  - Not Reported
+  - Peritumoral
+  - Tumor
+  - Unknown

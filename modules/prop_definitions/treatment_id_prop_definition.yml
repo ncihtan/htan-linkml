@@ -1,0 +1,4 @@
+treatment_id:
+  Desc: Internal identifier
+  Key: true
+  Type: string

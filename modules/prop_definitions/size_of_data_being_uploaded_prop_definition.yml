@@ -1,0 +1,9 @@
+size_of_data_being_uploaded:
+  Desc: Size of the data being uploaded to CDS
+  Req: Preferred
+  Type:
+    units:
+    - GB
+    - TB
+    - PB
+    value_type: number

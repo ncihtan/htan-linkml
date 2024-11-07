@@ -1,0 +1,8 @@
+MRImageAcquisitionProtocolElement_multipleSpinEchoIndicator:
+  Desc: Specifies whether different lines in k-space are collected for a single frame.
+  Term:
+  - Code: '14608595'
+    Origin: caDSR
+    Value: Imaging Technique Multiple Spin Echo Indicator
+    Version: '1.00'
+  Type: string

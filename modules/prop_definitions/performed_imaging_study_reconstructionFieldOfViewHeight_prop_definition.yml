@@ -1,0 +1,10 @@
+performed_imaging_study_reconstructionFieldOfViewHeight:
+  Desc: The vertical dimension of the rectangular region from which data is used in
+    creating the reconstruction of the image.
+  Req: true
+  Term:
+  - Code: '14612672'
+    Origin: caDSR
+    Value: Imaging Reconstruction Protocol Field of View Height Number
+    Version: '1.00'
+  Type: string

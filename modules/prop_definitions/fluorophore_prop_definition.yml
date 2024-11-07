@@ -1,0 +1,9 @@
+fluorophore:
+  Desc: Fluorescent dye label
+  Term:
+  - Code: '14767255'
+    Origin: caDSR
+    Original Source: CDS
+    Value: Multiplex Imaging Fluorescent Dye Text
+    Version: '1.00'
+  Type: string

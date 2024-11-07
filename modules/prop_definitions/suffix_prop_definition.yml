@@ -1,0 +1,9 @@
+suffix:
+  Desc: Text term to represent an individual's position in a family lineage or pedigree.
+  Term:
+  - Code: '2006475'
+    Origin: caDSR
+    Original Source: NCI Std
+    Value: Individual Genea
+    Version: '2.00'
+  Type: string

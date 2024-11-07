@@ -1,0 +1,9 @@
+CTAquisitionProtocolElement_ctdiPhantomTypeCode:
+  Desc: The type of phantom to use for CTDI measurement according to IEC 60601-2-44
+  Req: true
+  Term:
+  - Code: '14612683'
+    Origin: caDSR
+    Value: Imaging Technique CTDI Phantom Type Sequence of Items Text
+    Version: '1.00'
+  Type: string

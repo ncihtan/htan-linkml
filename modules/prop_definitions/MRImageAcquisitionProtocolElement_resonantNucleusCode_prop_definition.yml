@@ -1,0 +1,17 @@
+MRImageAcquisitionProtocolElement_resonantNucleusCode:
+  Desc: A coded value specifying the atomic nucleus that is the target of the acquisition
+  Enum:
+  - 1H
+  - 3HE
+  - 7LI
+  - 13C
+  - 19F
+  - 23NA
+  - 31P
+  - 129XE
+  Term:
+  - Code: '14616427'
+    Origin: caDSR
+    Value: Image Acquisition Resonant Nucleus Type
+    Version: '1.00'
+  enum_import: ./enums/MRImageAcquisitionProtocolElement_resonantNucleusCode_enum.yml

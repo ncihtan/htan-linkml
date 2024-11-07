@@ -1,0 +1,11 @@
+performed_imaging_study_nonAcquisitionModalitiesInStudyCode:
+  Desc: A coded value specifying the type of equipment that created the images in
+    this imaging study other than that used to acquire the original data.
+  Req: true
+  Term:
+  - Code: '12137353'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Imaging Technology DICOM Modality Type
+    Version: '1.00'
+  Type: string

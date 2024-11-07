@@ -1,0 +1,10 @@
+performed_imaging_study_reconstructionDiameter:
+  Desc: The diameter of the region from which data is used in creating the reconstruction
+    of the image.
+  Req: true
+  Term:
+  - Code: '2182085'
+    Origin: caDSR
+    Value: Reconstruction Diameter in Millimeter(s)
+    Version: '1.00'
+  Type: string

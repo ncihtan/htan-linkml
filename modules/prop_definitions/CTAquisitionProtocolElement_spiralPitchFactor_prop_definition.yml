@@ -1,0 +1,11 @@
+CTAquisitionProtocolElement_spiralPitchFactor:
+  Desc: Ratio of the distance that the table moves during a complete revolution of
+    the source around the gantry orbit, to the width of the total collimation over
+    the area of active x-ray detection. The units are of unity.
+  Req: true
+  Term:
+  - Code: '2414556'
+    Origin: caDSR
+    Value: Computed Tomography Pitch Factor Number
+    Version: '1.00'
+  Type: string

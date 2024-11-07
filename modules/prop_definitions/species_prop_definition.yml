@@ -1,0 +1,14 @@
+species:
+  Desc: Use the NCBI Taxonomy ID to identify species. A label provided by NCBI Taxonomy
+    Database (https://www.ncbi.nlm.nih.gov/taxonomy/),  which uniquely identifies
+    group or category, at any level, in a system for classifying plants or animals
+    (including humans) providing ranked categories for the classification of organisms
+    according to their suspected evolutionary relationships.
+  Req: true
+  Term:
+  - Code: '10543100'
+    Origin: caDSR
+    Original Source: DSS
+    Value: NCBI Taxonomy ID
+    Version: '2.00'
+  Type: string

@@ -1,0 +1,10 @@
+imaging_equipment_model:
+  Desc: The words used to describe the specific model of the instrument used to carry
+    out an imaging experiment.
+  Term:
+  - Code: '2413274'
+    Origin: caDSR
+    Original Source: NCI Standard
+    Value: Equipment Manufacturer Model Name Text
+    Version: '2.10'
+  Type: string

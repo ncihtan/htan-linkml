@@ -1,0 +1,9 @@
+MRImageAcquisitionProtocolElement_diffusionBValue:
+  Desc: The factor by which the acquisition is sensitized to the Brownian motion of
+    water molecules. The units are of time/area, e.g. s/mm2
+  Term:
+  - Code: '14607706'
+    Origin: caDSR
+    Value: Imaging Technique MR Diffusion B Value Number
+    Version: '1.00'
+  Type: string

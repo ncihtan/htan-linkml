@@ -1,0 +1,4 @@
+primary_investigator_email:
+  Desc: Email of principal investigator
+  Req: Preferred
+  Type: string

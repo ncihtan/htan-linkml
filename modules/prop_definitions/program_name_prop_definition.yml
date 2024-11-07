@@ -1,0 +1,12 @@
+program_name:
+  Desc: The name of the program under which related studies will be grouped, in full
+    text and unabbreviated form, exactly as it will be displayed within the UI.
+  Req: 'Yes'
+  Src: Internally-curated
+  Term:
+  - Code: '11444542'
+    Origin: caDSR
+    Original Source: DSS
+    Value: Program Name Text
+    Version: '1.00'
+  Type: string
